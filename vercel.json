@@ -1,6 +1,6 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
-  "buildCommand": "npx next build",
+  "buildCommand": "node ./node_modules/next/dist/bin/next build",
   "outputDirectory": "out",
   "installCommand": "npm install",
   "trailingSlash": true
