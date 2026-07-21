@@ -1,12 +1,26 @@
-name: Deploy to Vercel
+name: Deploy to Vercel (optional)
 
 on:
   push:
     branches: [main]
   workflow_dispatch:
 
+# This workflow is OPTIONAL.
+# Vercel has direct GitHub integration (no secrets needed):
+#   - Vercel auto-detects Next.js from package.json
+#   - Vercel auto-deploys on every push to main
+#   - Vercel dashboard: https://vercel.com/dashboard
+#
+# This workflow only runs if you set 3 GitHub Secrets:
+#   - VERCEL_TOKEN (from vercel.com/account/tokens)
+#   - VERCEL_ORG_ID
+#   - VERCEL_PROJECT_ID
+#
+# To enable: Settings → Secrets and variables → Actions → New repository secret
+
 jobs:
   deploy:
+    if: ${{ secrets.VERCEL_TOKEN != '' }}
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -17,10 +31,10 @@ jobs:
           node-version: '20'
 
       - name: Install dependencies
-        run: cd site && npm install
+        run: npm install
 
       - name: Build
-        run: cd site && npm run build
+        run: npm run build
 
       - name: Deploy to Vercel
         uses: amondnet/vercel-action@v25
@@ -28,5 +42,4 @@ jobs:
           vercel-token: ${{ secrets.VERCEL_TOKEN }}
           vercel-org-id: ${{ secrets.VERCEL_ORG_ID }}
           vercel-project-id: ${{ secrets.VERCEL_PROJECT_ID }}
-          working-directory: ./site
           vercel-args: '--prod'
