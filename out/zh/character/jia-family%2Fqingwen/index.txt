@@ -1,0 +1,268 @@
+3:I[9275,[],""]
+6:I[1343,[],""]
+7:I[3589,["231","static/chunks/231-f35b59634dca96cb.js","185","static/chunks/app/layout-e8cd247004b66694.js"],"TopNav"]
+4:["lang","zh","d"]
+5:["id","jia-family%2Fqingwen","d"]
+0:["CkjgqcJKdN0iF54AsLwNp",[[["",{"children":[["lang","zh","d"],{"children":["character",{"children":[["id","jia-family%2Fqingwen","d"],{"children":["__PAGE__?{\"lang\":\"zh\",\"id\":\"jia-family/qingwen\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["lang","zh","d"],{"children":["character",{"children":[["id","jia-family%2Fqingwen","d"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children","character","children","$5","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children","character","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},[["$","html",null,{"lang":"zh","children":["$","body",null,{"className":"min-h-screen","children":[["$","$L7",null,{"lang":"zh"}],["$","main",null,{"className":"max-w-5xl mx-auto px-4 py-8","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}]}],["$","footer",null,{"className":"mt-16 py-8 border-t border-ink/20 text-center text-sm opacity-70","children":["红楼梦人物维基 · 基于程乙本（俞平伯校注人文社本）+ 脂批异文 · Hawkes 精修英译 ·"," ",["$","a",null,{"href":"https://github.com/anomalyco/hlm-wiki","target":"_blank","rel":"noreferrer","children":"GitHub"}]]}]]}]}],null],null],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/607f3a07d5b3a78f.css","precedence":"next","crossOrigin":"$undefined"}]],[null,"$L8"]]]]]
+9:I[231,["231","static/chunks/231-f35b59634dca96cb.js","389","static/chunks/app/%5Blang%5D/character/%5Bid%5D/page-9a15f7f10ab65c99.js"],""]
+a:T148a,<h1>晴雯 / Qingwen</h1>
+<blockquote>
+<p><strong>[别称]</strong> 病西施 · 芙蓉花神（宝玉祭文）<br>
+<strong>[身份]</strong> 金陵十二钗又副册之首 · 贾宝玉首席丫鬟<br>
+<strong>[结局]</strong> 被撵出大观园，夭亡于姑舅家<br>
+<strong>[判词]</strong> "霁月难逢，彩云易散"<br>
+<strong>[曲]</strong> 《聪明累》之副</p>
+</blockquote>
+<hr>
+<h2>档案 / Profile</h2>
+<table>
+<thead>
+<tr>
+<th>项目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>中文名</td>
+<td>晴雯</td>
+</tr>
+<tr>
+<td>拼音</td>
+<td>Qíngwén</td>
+</tr>
+<tr>
+<td>别号</td>
+<td>病西施、芙蓉花神</td>
+</tr>
+<tr>
+<td>性别</td>
+<td>女</td>
+</tr>
+<tr>
+<td>籍贯</td>
+<td>[待校] 程乙本未明载；第 77 回言"家生"</td>
+</tr>
+<tr>
+<td>父母</td>
+<td>父母双亡（[待校] 早期或在府中）</td>
+</tr>
+<tr>
+<td>姑舅哥哥</td>
+<td>晴雯死后，宝玉"私赠"</td>
+</tr>
+<tr>
+<td>师父</td>
+<td>[无]</td>
+</tr>
+<tr>
+<td>住所</td>
+<td>怡红院</td>
+</tr>
+<tr>
+<td>丫鬟</td>
+<td>自有（晴雯之下）</td>
+</tr>
+<tr>
+<td>结局</td>
+<td>第 77 回"俏丫鬟抱屈夭风流"——被撵出大观园，夭亡</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>判词 / Key Verse</h2>
+<h3>金陵十二钗又副册 · 头一页 · 晴雯</h3>
+<blockquote>
+<p>画着一片冰山，上面有一只雌凤。其判云：</p>
+<p><strong>霁月难逢，</strong>
+<strong>彩云易散。</strong>
+<strong>心比天高，</strong>
+<strong>身为下贱。</strong>
+<strong>风流灵巧招人怨。</strong>
+<strong>寿夭多因毁谤生，</strong>
+<strong>多情公子空牵念。</strong></p>
+</blockquote>
+<blockquote>
+<p>[现代白话译注] 雨过天晴的明月难以相逢，五彩云霞容易消散。心性比天高，身分却下贱。风流灵巧招人怨恨。寿命短促多因毁谤而生，多情公子空牵念。</p>
+</blockquote>
+<blockquote>
+<p>[英译] Hawkes, Vol. 1, p. 201</p>
+</blockquote>
+<h3>《聪明累》之副（曲末附晴雯）</h3>
+<blockquote>
+<p>风流灵巧招人怨，寿夭多因毁谤生。多情公子空牵念。</p>
+</blockquote>
+<hr>
+<h2>第一次出场 / First Appearance</h2>
+<h3>第 8 回 · 程乙本 · 晴雯首次出场</h3>
+<blockquote>
+<p>晴雯……一进门便冷笑："好，好！……"</p>
+</blockquote>
+<h3>第 20 回 · 正式详细描写</h3>
+<blockquote>
+<p>晴雯……一把将扇子夺了。</p>
+</blockquote>
+<hr>
+<h2>性格与形象 / Personality</h2>
+<h3>外貌（多处描写综合）</h3>
+<blockquote>
+<p>晴雯……水蛇腰，削肩膀儿，脸庞儿、身段儿，倒像是画上画的。</p>
+</blockquote>
+<h3>性格特征</h3>
+<ul>
+<li><strong>风流灵巧</strong>：心比天高，身为下贱</li>
+<li><strong>聪明尖刻</strong>：第 20 回"撕扇"，第 31 回撕扇子作千金一笑</li>
+<li><strong>忠于宝玉</strong>：第 52 回"病补雀金裘"</li>
+<li><strong>性子直率</strong>：第 31 回撕扇、第 74 回被撵前骂人</li>
+<li><strong>要强好胜</strong>：在丫鬟中争强好胜</li>
+</ul>
+<h3>关键语录</h3>
+<ul>
+<li>"好，好！……"（第 8 回）</li>
+<li>"……我是横竖要死了，明儿再不能在一处了……"（第 77 回临终）</li>
+<li>"早知担了个虚名，我当日的就……"（第 77 回临终未竟）</li>
+</ul>
+<hr>
+<h2>关键事件 / Key Events</h2>
+<table>
+<thead>
+<tr>
+<th>回目</th>
+<th>事件</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>第 8 回</td>
+<td>首次出场</td>
+</tr>
+<tr>
+<td>第 20 回</td>
+<td>撕扇子作千金一笑</td>
+</tr>
+<tr>
+<td>第 31 回</td>
+<td>撕扇子（与宝玉）</td>
+</tr>
+<tr>
+<td>第 52 回</td>
+<td>病补雀金裘</td>
+</tr>
+<tr>
+<td>第 53 回</td>
+<td>抱恙</td>
+</tr>
+<tr>
+<td>第 60 回</td>
+<td>五儿事</td>
+</tr>
+<tr>
+<td>第 74 回</td>
+<td>抄检大观园，被王善保家的进谗</td>
+</tr>
+<tr>
+<td>第 77 回</td>
+<td>被撵、夭亡</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>红学评点 / Scholarly Notes</h2>
+<h3>脂批摘要</h3>
+<ul>
+<li>[脂批·庚辰本] 第 31 回："……晴雯之撕扇，是率性之至。"</li>
+<li>[脂批·庚辰本] 第 77 回："……晴雯之屈死，是黛影子之先现。"</li>
+</ul>
+<h3>现代研究</h3>
+<ul>
+<li><strong>欧丽娟</strong>：晴雯是"黛玉之影"；《大观红楼》卷三页 178。</li>
+<li><strong>王蒙</strong>：晴雯"是最具反抗性的丫鬟"；《王蒙活说红楼梦》。</li>
+<li><strong>白先勇</strong>：晴雯"是红楼梦中丫鬟之最高典型"；《白先勇细说红楼梦》。</li>
+</ul>
+<hr>
+<h2>[脂批·推测] 八十回后结局</h2>
+<ul>
+<li>[脂批] 早逝——与程乙本一致</li>
+<li>[脂批] "寿夭多因毁谤生"——被毁谤致死</li>
+<li>[脂批] 宝玉作《芙蓉女儿诔》祭晴雯（第 78 回）</li>
+</ul>
+<hr>
+<h2>引用与版本 / Citations</h2>
+<ul>
+<li>《红楼梦》第 8、20、31、52、53、60、74、77、78 回 · 程乙本 · 俞平伯校注 · 人民文学出版社 · 1982</li>
+<li>Hawkes, <em>The Story of the Stone</em>, Vol. 1, Penguin, 1973, p. 201（判词）</li>
+<li>Hawkes, <em>The Story of the Stone</em>, Vol. 2, Penguin, 1977</li>
+<li>Hawkes, <em>The Story of the Stone</em>, Vol. 3, Penguin, 1980（78 回诔文）</li>
+</ul>
+<p>最后更新：2026-07-20</p>
+b:Tb51,<h1>晴雯 · 原文与译文</h1>
+<hr>
+<h2>判词与曲</h2>
+<h3>1. 判词（第五回 · 程乙本）</h3>
+<blockquote>
+<p>画着一片冰山，上面有一只雌凤。其判云：</p>
+<p><strong>霁月难逢，彩云易散。</strong>
+<strong>心比天高，身为下贱。</strong>
+<strong>风流灵巧招人怨。</strong>
+<strong>寿夭多因毁谤生，</strong>
+<strong>多情公子空牵念。</strong></p>
+</blockquote>
+<p><strong>[现代白话译注]</strong> 雨过天晴的明月难以相逢，五彩云霞容易消散。心性比天高，身分却下贱。风流灵巧招人怨恨。寿命短促多因毁谤而生，多情公子空牵念。</p>
+<p><strong>[Hawkes 译文]</strong></p>
+<blockquote>
+<p>Seldom does the moon shine after a fine rain,
+And coloured clouds as easily fade.
+Her heart is higher than the sky,
+But her place in life is low.
+Charm and wit bring only hatred.
+Short life comes from slander and spite;
+The sentimental young master pines in vain.
+<em>Hawkes, Vol. 1, p. 201</em></p>
+</blockquote>
+<hr>
+<h2>关键语段</h2>
+<h3>2. 撕扇（第三十一回 · 程乙本 · 节选）</h3>
+<blockquote>
+<p>晴雯……笑道："……让我撕他（扇子）一把，大家乐一日……"</p>
+</blockquote>
+<blockquote>
+<p>[回目出处] 第 31 回 · 程乙本 · 页 423
+[英译] Hawkes, Vol. 2, p. 197</p>
+</blockquote>
+<h3>3. 病补雀金裘（第五十二回 · 程乙本 · 节选）</h3>
+<blockquote>
+<p>晴雯……一面拈了两根针，一面自去瞋儿。……无奈头晕眼黑，气喘神虚。……补不上三五针，便伏在枕上歇一会。</p>
+</blockquote>
+<blockquote>
+<p>[回目出处] 第 52 回 · 程乙本 · 页 712
+[英译] Hawkes, Vol. 3, p. 901</p>
+</blockquote>
+<h3>4. 抄检大观园（第七十四回 · 程乙本 · 节选）</h3>
+<blockquote>
+<p>晴雯……"豁"一声将箱子掀开，两手捉着底子，朝天往地下尽情一倒，将所有之物尽都倒出来。</p>
+</blockquote>
+<blockquote>
+<p>[回目出处] 第 74 回 · 程乙本 · 页 1010
+[英译] Hawkes, Vol. 4, p. 686</p>
+</blockquote>
+<h3>5. 临终诀别（第七十七回 · 程乙本 · 节选）</h3>
+<blockquote>
+<p>晴雯……泣道："……只是一件，我死也不甘心的！我……" ……宝玉……握着他的手，哽咽……</p>
+</blockquote>
+<blockquote>
+<p>[回目出处] 第 77 回 · 程乙本 · 页 1102
+[英译] Hawkes, Vol. 4, p. 815</p>
+</blockquote>
+<h3>6. 《芙蓉女儿诔》（节选 · 第七十八回 · 程乙本）</h3>
+<blockquote>
+<p>维太平不易之元，蓉桂竞芳之月，无可奈何之日，怡红院浊玉，谨以群花之蕊、冰鲛之縠、沁芳之泉、枫露之茗，四者虽微，聊以达诚申信，乃致祭于……</p>
+</blockquote>
+<blockquote>
+<p>[回目出处] 第 78 回 · 程乙本 · 页 1111
+[英译] Hawkes, Vol. 4, p. 853</p>
+</blockquote>
+<hr>
+<p>最后更新：2026-07-20</p>
+2:["$","article",null,{"className":"space-y-8","children":[["$","header",null,{"className":"border-b border-ink/20 pb-6","children":["$","div",null,{"className":"flex flex-col md:flex-row gap-6 items-start","children":[null,["$","div",null,{"className":"flex-1","children":[["$","p",null,{"className":"text-sm opacity-60 mb-1","children":[["$","$L9",null,{"href":"/zh/character","className":"hover:underline","children":"人物"}]," · ","贾府"]}],["$","h1",null,{"className":"font-kai text-4xl font-bold mb-2","children":"晴雯"}],["$","p",null,{"className":"text-lg opacity-70 mb-3","children":"病西施 · 芙蓉花神（宝玉祭文）"}],["$","p",null,{"className":"prose-judgement text-sm italic","children":"> **[别称]** 病西施 · 芙蓉花神（宝玉祭文）  "}]]}]]}]}],["$","section",null,{"className":"prose-quote prose max-w-none","dangerouslySetInnerHTML":{"__html":"$a"}}],["$","section",null,{"children":[["$","h2",null,{"className":"text-2xl font-bold mb-4 font-kai border-b border-ink/20 pb-2","children":"故事时间线"}],["$","div",null,{"className":"prose max-w-none","dangerouslySetInnerHTML":{"__html":"<h1>晴雯 · 故事时间线</h1>\n<hr>\n<h2>出场</h2>\n<h3>第 8 回 · 首次出场</h3>\n<ul>\n<li>晴雯随宝玉出府</li>\n</ul>\n<h3>第 20 回 · 正式详写</h3>\n<ul>\n<li>撕扇子作千金一笑——\"一把将扇子夺了\"</li>\n<li>性格初显</li>\n</ul>\n<hr>\n<h2>撕扇与病补</h2>\n<h3>第 31 回 · 撕扇</h3>\n<ul>\n<li>撕扇子作千金一笑</li>\n<li>性格鲜明</li>\n</ul>\n<h3>第 52 回 · 勇晴雯病补雀金裘</h3>\n<ul>\n<li>雀金裘被火星烧了小洞</li>\n<li>晴雯带病补裘</li>\n<li>体现\"心比天高\"</li>\n</ul>\n<hr>\n<h2>抄检大观园</h2>\n<h3>第 74 回 · 惑奸谗抄检大观园</h3>\n<ul>\n<li>王善保家的进谗</li>\n<li>抄检大观园</li>\n<li>晴雯\"挽着头发闯进来，豁一声将箱子掀开\"——\"要搜就搜\"</li>\n</ul>\n<h3>第 77 回 · 俏丫鬟抱屈夭风流</h3>\n<ul>\n<li>晴雯被撵</li>\n<li>临终与宝玉诀别</li>\n<li>\"……我今儿既担了虚名……\"</li>\n<li>宝玉\"杜撰芙蓉诔\"祭她</li>\n</ul>\n<hr>\n<h2>临终</h2>\n<h3>第 78 回 · 痴公子杜撰芙蓉诔</h3>\n<ul>\n<li>宝玉作《芙蓉女儿诔》祭晴雯</li>\n<li>\"忆女儿曩生之昔，其为质则金玉不足喻其贵……\"</li>\n</ul>\n<hr>\n<h2>[脂批·推测] 八十回后结局</h2>\n<ul>\n<li>[脂批] 早逝——与程乙本一致</li>\n<li>[脂批] \"寿夭多因毁谤生\"</li>\n<li>[脂批] 晴雯是黛玉之影——脂批多次强调</li>\n</ul>\n<hr>\n<p>[回目数据来源：planning/04-timeline.md]\n最后更新：2026-07-20</p>\n"}}]]}],["$","section",null,{"children":[["$","h2",null,{"className":"text-2xl font-bold mb-4 font-kai border-b border-ink/20 pb-2","children":"原文与译文"}],["$","div",null,{"className":"prose max-w-none","dangerouslySetInnerHTML":{"__html":"$b"}}]]}],false,["$","footer",null,{"className":"text-center text-sm opacity-60 pt-8 border-t border-ink/20","children":["$","$L9",null,{"href":"/zh/character","className":"hover:underline","children":["← ","返回人物列表"]}]}]]}]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"晴雯"}],["$","meta","3",{"name":"description","content":"> **[别称]** 病西施 · 芙蓉花神（宝玉祭文）  "}]]
+1:null

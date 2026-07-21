@@ -1,0 +1,111 @@
+3:I[9275,[],""]
+6:I[1343,[],""]
+7:I[3589,["231","static/chunks/231-f35b59634dca96cb.js","185","static/chunks/app/layout-e8cd247004b66694.js"],"TopNav"]
+4:["lang","en","d"]
+5:["id","jia-family%2Fjia-huan","d"]
+0:["CkjgqcJKdN0iF54AsLwNp",[[["",{"children":[["lang","en","d"],{"children":["character",{"children":[["id","jia-family%2Fjia-huan","d"],{"children":["__PAGE__?{\"lang\":\"en\",\"id\":\"jia-family/jia-huan\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["lang","en","d"],{"children":["character",{"children":[["id","jia-family%2Fjia-huan","d"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children","character","children","$5","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children","character","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},[["$","html",null,{"lang":"zh","children":["$","body",null,{"className":"min-h-screen","children":[["$","$L7",null,{"lang":"zh"}],["$","main",null,{"className":"max-w-5xl mx-auto px-4 py-8","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}]}],["$","footer",null,{"className":"mt-16 py-8 border-t border-ink/20 text-center text-sm opacity-70","children":["红楼梦人物维基 · 基于程乙本（俞平伯校注人文社本）+ 脂批异文 · Hawkes 精修英译 ·"," ",["$","a",null,{"href":"https://github.com/anomalyco/hlm-wiki","target":"_blank","rel":"noreferrer","children":"GitHub"}]]}]]}]}],null],null],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/607f3a07d5b3a78f.css","precedence":"next","crossOrigin":"$undefined"}]],[null,"$L8"]]]]]
+9:I[231,["231","static/chunks/231-f35b59634dca96cb.js","389","static/chunks/app/%5Blang%5D/character/%5Bid%5D/page-9a15f7f10ab65c99.js"],""]
+a:T63f,<h1>贾环 / Jia Huan</h1>
+<blockquote>
+<p><strong>[别称]</strong> 环三爷<br>
+<strong>[身份]</strong> 贾政庶子 · 赵姨娘所生<br>
+<strong>[结局]</strong> 程乙本：贾府败落后仍存在</p>
+</blockquote>
+<hr>
+<h2>档案 / Profile</h2>
+<table>
+<thead>
+<tr>
+<th>项目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>中文名</td>
+<td>贾环</td>
+</tr>
+<tr>
+<td>拼音</td>
+<td>Jiǎ Huán</td>
+</tr>
+<tr>
+<td>别号</td>
+<td>环三爷</td>
+</tr>
+<tr>
+<td>性别</td>
+<td>男</td>
+</tr>
+<tr>
+<td>出身</td>
+<td>荣国府</td>
+</tr>
+<tr>
+<td>父</td>
+<td>贾政</td>
+</tr>
+<tr>
+<td>生母</td>
+<td>赵姨娘</td>
+</tr>
+<tr>
+<td>同母姐</td>
+<td>贾探春</td>
+</tr>
+<tr>
+<td>嫡母</td>
+<td>王夫人</td>
+</tr>
+<tr>
+<td>住所</td>
+<td>荣国府 · 赵姨娘处</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>性格与形象 / Personality</h2>
+<h3>性格特征</h3>
+<ul>
+<li><strong>猥琐</strong>：第 25 回推蜡油烫宝玉</li>
+<li><strong>心术不正</strong>：第 33 回诬告宝玉</li>
+<li><strong>受宠母</strong>：赵姨娘溺爱</li>
+<li><strong>不讨喜</strong>：贾府上下嫌他</li>
+</ul>
+<hr>
+<h2>关键事件 / Key Events</h2>
+<table>
+<thead>
+<tr>
+<th>回目</th>
+<th>事件</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>第 20 回</td>
+<td>玩耍冲突</td>
+</tr>
+<tr>
+<td>第 25 回</td>
+<td>推蜡油烫宝玉</td>
+</tr>
+<tr>
+<td>第 33 回</td>
+<td>诬告宝玉致笞挞</td>
+</tr>
+<tr>
+<td>第 60 回</td>
+<td>茉莉粉替蔷薇硝</td>
+</tr>
+<tr>
+<td>第 84 回</td>
+<td>贾环重结怨</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<p>最后更新：2026-07-20</p>
+2:["$","article",null,{"className":"space-y-8","children":[["$","header",null,{"className":"border-b border-ink/20 pb-6","children":["$","div",null,{"className":"flex flex-col md:flex-row gap-6 items-start","children":[null,["$","div",null,{"className":"flex-1","children":[["$","p",null,{"className":"text-sm opacity-60 mb-1","children":[["$","$L9",null,{"href":"/en/character","className":"hover:underline","children":"Characters"}]," · ","贾府"]}],["$","h1",null,{"className":"font-kai text-4xl font-bold mb-2","children":"贾环"}],["$","p",null,{"className":"text-lg opacity-70 mb-3","children":"环三爷"}],["$","p",null,{"className":"prose-judgement text-sm italic","children":""}]]}]]}]}],["$","section",null,{"className":"prose-quote prose max-w-none","dangerouslySetInnerHTML":{"__html":"$a"}}],["$","section",null,{"children":[["$","h2",null,{"className":"text-2xl font-bold mb-4 font-kai border-b border-ink/20 pb-2","children":"Story Timeline"}],["$","div",null,{"className":"prose max-w-none","dangerouslySetInnerHTML":{"__html":"<h1>贾环 · 故事时间线</h1>\n<h3>第 20 回 · 玩耍冲突</h3>\n<ul>\n<li>跟宝玉等</li>\n</ul>\n<h3>第 25 回 · 推蜡油烫宝玉</h3>\n<ul>\n<li>推蜡油烫伤宝玉脸</li>\n</ul>\n<h3>第 33 回 · 诬告宝玉</h3>\n<ul>\n<li>诬告宝玉\"强奸母婢\"金钏 → 贾政笞挞</li>\n</ul>\n<h3>第 60 回 · 茉莉粉事件</h3>\n<ul>\n<li>茉莉粉替蔷薇硝</li>\n<li>与彩云相关</li>\n</ul>\n<h3>第 84 回 · 贾环重结怨</h3>\n<ul>\n<li>与彩霞相关</li>\n</ul>\n<p>最后更新：2026-07-20</p>\n"}}]]}],["$","section",null,{"children":[["$","h2",null,{"className":"text-2xl font-bold mb-4 font-kai border-b border-ink/20 pb-2","children":"Original & Translation"}],["$","div",null,{"className":"prose max-w-none","dangerouslySetInnerHTML":{"__html":"<h1>贾环 · 原文与译文</h1>\n<h2>关键语段</h2>\n<h3>1. 推蜡油烫宝玉（第二十五回 · 程乙本 · 节选）</h3>\n<blockquote>\n<p>贾环……故意……把蜡灯……向宝玉脸上……一推。</p>\n</blockquote>\n<blockquote>\n<p>[回目出处] 第 25 回 · 程乙本 · 页 348\n[英译] Hawkes, Vol. 2, p. 24</p>\n</blockquote>\n<h3>2. 诬告宝玉（第三十三回 · 程乙本 · 节选）</h3>\n<blockquote>\n<p>贾环……悄悄……向贾政……说道：\"……宝玉……强奸母婢……\"</p>\n</blockquote>\n<blockquote>\n<p>[回目出处] 第 33 回 · 程乙本 · 页 442\n[英译] Hawkes, Vol. 2, p. 268</p>\n</blockquote>\n<h3>3. 茉莉粉事件（第六十回 · 程乙本 · 节选）</h3>\n<blockquote>\n<p>贾环……与赵姨娘……争茉莉粉。</p>\n</blockquote>\n<blockquote>\n<p>[回目出处] 第 60 回 · 程乙本 · 页 825\n[英译] Hawkes, Vol. 3, p. 220</p>\n</blockquote>\n<hr>\n<p>最后更新：2026-07-20</p>\n"}}]]}],false,["$","footer",null,{"className":"text-center text-sm opacity-60 pt-8 border-t border-ink/20","children":["$","$L9",null,{"href":"/en/character","className":"hover:underline","children":["← ","Back to Characters"]}]}]]}]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"贾环"}],["$","meta","3",{"name":"description","content":"> **[别称]** 环三爷  "}]]
+1:null

@@ -1,0 +1,365 @@
+3:I[9275,[],""]
+6:I[1343,[],""]
+7:I[3589,["231","static/chunks/231-f35b59634dca96cb.js","185","static/chunks/app/layout-e8cd247004b66694.js"],"TopNav"]
+4:["lang","zh","d"]
+5:["id","jia-family%2Fxiangling","d"]
+0:["CkjgqcJKdN0iF54AsLwNp",[[["",{"children":[["lang","zh","d"],{"children":["character",{"children":[["id","jia-family%2Fxiangling","d"],{"children":["__PAGE__?{\"lang\":\"zh\",\"id\":\"jia-family/xiangling\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["lang","zh","d"],{"children":["character",{"children":[["id","jia-family%2Fxiangling","d"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children","character","children","$5","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children","character","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},[["$","html",null,{"lang":"zh","children":["$","body",null,{"className":"min-h-screen","children":[["$","$L7",null,{"lang":"zh"}],["$","main",null,{"className":"max-w-5xl mx-auto px-4 py-8","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}]}],["$","footer",null,{"className":"mt-16 py-8 border-t border-ink/20 text-center text-sm opacity-70","children":["红楼梦人物维基 · 基于程乙本（俞平伯校注人文社本）+ 脂批异文 · Hawkes 精修英译 ·"," ",["$","a",null,{"href":"https://github.com/anomalyco/hlm-wiki","target":"_blank","rel":"noreferrer","children":"GitHub"}]]}]]}]}],null],null],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/607f3a07d5b3a78f.css","precedence":"next","crossOrigin":"$undefined"}]],[null,"$L8"]]]]]
+9:I[231,["231","static/chunks/231-f35b59634dca96cb.js","389","static/chunks/app/%5Blang%5D/character/%5Bid%5D/page-9a15f7f10ab65c99.js"],""]
+a:T184a,<h1>香菱（甄英莲）/ Xiangling (Zhen Yinglian)</h1>
+<blockquote>
+<p><strong>[别称]</strong> 甄英莲 · 香菱 · 秋菱（夏金桂改）<br>
+<strong>[身份]</strong> 金陵十二钗副册之首 · 薛蟠之妾<br>
+<strong>[结局]</strong> [脂批] "自从两地生孤木"——被夏金桂折磨死 / 程乙本被虐待<br>
+<strong>[判词]</strong> "根并荷花一茎香，平生遭际实堪伤"<br>
+<strong>[曲]</strong> 《枉凝眉》之副</p>
+</blockquote>
+<hr>
+<h2>档案 / Profile</h2>
+<table>
+<thead>
+<tr>
+<th>项目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>中文名</td>
+<td>香菱（甄英莲）</td>
+</tr>
+<tr>
+<td>拼音</td>
+<td>Xiānglíng (Zhēn Yīnglián)</td>
+</tr>
+<tr>
+<td>别号</td>
+<td>香菱、秋菱、菱姑娘、甄英莲</td>
+</tr>
+<tr>
+<td>性别</td>
+<td>女</td>
+</tr>
+<tr>
+<td>籍贯</td>
+<td>姑苏（祖籍；后为金陵）</td>
+</tr>
+<tr>
+<td>父</td>
+<td>甄士隐（姑苏乡宦）</td>
+</tr>
+<tr>
+<td>母</td>
+<td>甄夫人</td>
+</tr>
+<tr>
+<td>师父</td>
+<td>黛玉（第 48 回学诗）</td>
+</tr>
+<tr>
+<td>夫主</td>
+<td>薛蟠（妾）</td>
+</tr>
+<tr>
+<td>主母</td>
+<td>夏金桂（正妻）</td>
+</tr>
+<tr>
+<td>住所</td>
+<td>薛家（梨香院 → 贾府 → 薛家）</td>
+</tr>
+<tr>
+<td>丫鬟</td>
+<td>（自有小丫鬟；后期不详）</td>
+</tr>
+<tr>
+<td>结局</td>
+<td>第 100 回"破好事香菱结深恨"；第 103 回"施毒计金桂自焚身"——香菱被夏金桂虐待；[脂批] 死</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>判词 / Key Verse</h2>
+<h3>金陵十二钗副册 · 头一页 · 香菱</h3>
+<blockquote>
+<p>画着一枝桂花，下面有一池沼，其中水涸泥干，莲枯藕败。后面书云：</p>
+<p><strong>根并荷花一茎香，</strong>
+<strong>平生遭际实堪伤。</strong>
+<strong>自从两地生孤木，</strong>
+<strong>致使香魂返故乡。</strong></p>
+</blockquote>
+<blockquote>
+<p>[现代白话译注] "根并荷花一茎香"——荷花即菱花，香菱本姓甄，英莲为莲，香菱为菱。"自从两地生孤木"——"两地生孤木"合成"桂"字，指夏金桂。"致使香魂返故乡"——被夏金桂折磨死。</p>
+</blockquote>
+<blockquote>
+<p>[英译] Hawkes, Vol. 1, p. 201</p>
+</blockquote>
+<hr>
+<h2>第一次出场 / First Appearance</h2>
+<h3>第 1 回 · 甄士隐之女</h3>
+<blockquote>
+<p>士隐……见一僧一道……只舍了这一个女儿……</p>
+</blockquote>
+<h3>第 7 回 · 周瑞家送宫花时见香菱</h3>
+<blockquote>
+<p>只见香菱正笑嘻嘻的走来。……周瑞家的……问起，方知是薛蟠买的。</p>
+</blockquote>
+<blockquote>
+<p>[回目出处] 第 7 回 · 程乙本 · 页 95
+[英译] Hawkes, Vol. 1, p. 248</p>
+</blockquote>
+<hr>
+<h2>性格与形象 / Personality</h2>
+<h3>性格特征</h3>
+<ul>
+<li><strong>命途多舛</strong>：自幼被拐卖；少年时甄家失火；后被薛蟠抢去</li>
+<li><strong>呆萌憨厚</strong>：第 62 回斗草时撞见宝玉换石榴裙</li>
+<li><strong>才情渐显</strong>：第 48 回拜黛玉学诗，三首《吟月》出类拔萃</li>
+<li><strong>天真善良</strong>：被夏金桂虐待仍本性不改</li>
+</ul>
+<h3>关键语录</h3>
+<ul>
+<li>"不独菱花，就连荷叶莲蓬，都是有一股清香的……"（第 80 回斗草）</li>
+<li>"精华欲掩料应难，影自娟娟魄自寒。一片砧敲千里白，半轮鸡唱五更残。绿蓑江上秋闻笛，红袖楼头夜倚栏。博得嫦娥应自问，何缘不使永团圆？"（第 48 回《吟月》三首其三）</li>
+<li>"我爱那白菱花，更爱这一池水……"（第 80 回斗草）</li>
+</ul>
+<hr>
+<h2>关键事件 / Key Events</h2>
+<table>
+<thead>
+<tr>
+<th>回目</th>
+<th>事件</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>第 1 回</td>
+<td>甄英莲被拐</td>
+</tr>
+<tr>
+<td>第 7 回</td>
+<td>周瑞家送宫花时见香菱</td>
+</tr>
+<tr>
+<td>第 16 回</td>
+<td>入住梨香院</td>
+</tr>
+<tr>
+<td>第 39 回</td>
+<td>刘姥姥二进荣国府（与香菱相关）</td>
+</tr>
+<tr>
+<td>第 48 回</td>
+<td>拜黛玉学诗</td>
+</tr>
+<tr>
+<td>第 49 回</td>
+<td>入住大观园</td>
+</tr>
+<tr>
+<td>第 50 回</td>
+<td>芦雪庵联句</td>
+</tr>
+<tr>
+<td>第 62 回</td>
+<td>与豆官斗草，宝玉换石榴裙</td>
+</tr>
+<tr>
+<td>第 79 回</td>
+<td>薛蟠娶夏金桂</td>
+</tr>
+<tr>
+<td>第 80 回</td>
+<td>被夏金桂改名"秋菱"</td>
+</tr>
+<tr>
+<td>第 100 回</td>
+<td>"破好事香菱结深恨"</td>
+</tr>
+<tr>
+<td>第 103 回</td>
+<td>"施毒计金桂自焚身"</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>红学评点 / Scholarly Notes</h2>
+<h3>脂批摘要</h3>
+<ul>
+<li>[脂批·甲戌本] 第 1 回："……英莲遭际，伏后文'自从两地生孤木'。"</li>
+<li>[脂批·庚辰本] 第 48 回："……香菱学诗，是'梦中得'，非凡人可学。"</li>
+</ul>
+<h3>现代研究</h3>
+<ul>
+<li><strong>欧丽娟</strong>：香菱是"命运悲剧的极致"；《大观红楼》卷三页 213。</li>
+<li><strong>王蒙</strong>：香菱是"诗救赎的象征"；《王蒙活说红楼梦》。</li>
+<li><strong>白先勇</strong>：香菱"是红楼梦中命运最惨者"；《白先勇细说红楼梦》。</li>
+<li><strong>脂批</strong>："自从两地生孤木"——夏金桂之"桂"，脂批多次强调。</li>
+</ul>
+<hr>
+<h2>[脂批·推测] 八十回后结局</h2>
+<ul>
+<li>[脂批] "自从两地生孤木，致使香魂返故乡"——被夏金桂折磨死</li>
+<li>[脂批] 香菱之"香"与英莲之"莲"——名字暗喻命运</li>
+</ul>
+<blockquote>
+<p><strong>注</strong>：程乙本第 100 回作"破好事香菱结深恨 悲远嫁宝玉感离情"——香菱被虐待，命运凄惨；与脂批一致。</p>
+</blockquote>
+<hr>
+<h2>引用与版本 / Citations</h2>
+<ul>
+<li>《红楼梦》第 1、7、16、39、48、49、50、62、79、80、100、103 回 · 程乙本 · 俞平伯校注 · 人民文学出版社 · 1982</li>
+<li>Hawkes, <em>The Story of the Stone</em>, Vol. 1, Penguin, 1973, p. 248（7 回）、p. 201（判词）</li>
+<li>Hawkes, <em>The Story of the Stone</em>, Vol. 2, Penguin, 1977</li>
+<li>Hawkes &#x26; Minford, <em>The Story of the Stone</em>, Vol. 5, Penguin, 1986（100 回、103 回）</li>
+</ul>
+<p>最后更新：2026-07-20</p>
+b:T892,<h1>香菱 · 故事时间线</h1>
+<hr>
+<h2>出生与被拐</h2>
+<h3>第 1 回 · 甄英莲被拐</h3>
+<ul>
+<li>姑苏乡宦甄士隐之女</li>
+<li>元宵节看社火花灯时被拐子抱走</li>
+<li>甄士隐"疯跛道人"《好了歌》后出家</li>
+</ul>
+<h3>[待校] 少年期</h3>
+<ul>
+<li>长大后被拐子卖与冯渊</li>
+<li>薛蟠打死冯渊，强抢香菱</li>
+<li>改名"香菱"</li>
+</ul>
+<hr>
+<h2>入贾府</h2>
+<h3>第 4 回 · 入住梨香院</h3>
+<ul>
+<li>薛蟠强抢英莲后，薛家入京</li>
+<li>住梨香院</li>
+</ul>
+<h3>第 7 回 · 周瑞家送宫花</h3>
+<ul>
+<li>周瑞家送宫花至宝钗处，见香菱</li>
+<li>"香菱"之名确立</li>
+</ul>
+<h3>第 16 回 · 入住贾府</h3>
+<ul>
+<li>薛蟠入住贾府梨香院</li>
+</ul>
+<hr>
+<h2>学诗</h2>
+<h3>第 39 回 · 斗草前</h3>
+<h3>第 48 回 · 慕雅女雅集苦吟诗</h3>
+<ul>
+<li>拜黛玉为师学诗</li>
+<li>第一首："月挂中天夜色寒"——黛玉评"措辞不雅"</li>
+<li>第二首："非银非水映窗寒"——黛玉评"过于堆砌"</li>
+<li>第三首："精华欲掩料应难"——黛玉评"正是咏月"</li>
+</ul>
+<h3>第 49 回 · 入住大观园</h3>
+<h3>第 50 回 · 芦雪庵联句</h3>
+<ul>
+<li>联句参与</li>
+</ul>
+<hr>
+<h2>情解石榴裙</h2>
+<h3>第 62 回 · 呆香菱情解石榴裙</h3>
+<ul>
+<li>与豆官斗草</li>
+<li>石榴裙被污湿</li>
+<li>宝玉换裙</li>
+</ul>
+<hr>
+<h2>夏金桂入门</h2>
+<h3>第 79 回 · 薛蟠娶夏金桂</h3>
+<ul>
+<li>薛蟠娶夏金桂</li>
+<li>"河东狮"</li>
+</ul>
+<h3>第 80 回 · 改名秋菱</h3>
+<ul>
+<li>夏金桂入门</li>
+<li>改名香菱为"秋菱"</li>
+<li>折磨开始</li>
+</ul>
+<hr>
+<h2>被虐待</h2>
+<h3>第 100 回 · 破好事香菱结深恨</h3>
+<ul>
+<li>香菱被虐待加剧</li>
+</ul>
+<h3>第 103 回 · 施毒计金桂自焚身</h3>
+<ul>
+<li>夏金桂自食恶果</li>
+<li>[脂批] 香菱死</li>
+</ul>
+<hr>
+<h2>[脂批·推测] 八十回后结局</h2>
+<ul>
+<li>[脂批] "自从两地生孤木，致使香魂返故乡"——被夏金桂折磨死</li>
+<li>[脂批] "自从两地生孤木"——"桂"字</li>
+</ul>
+<hr>
+<p>[回目数据来源：planning/04-timeline.md]
+最后更新：2026-07-20</p>
+c:T954,<h1>香菱 · 原文与译文</h1>
+<hr>
+<h2>判词与曲</h2>
+<h3>1. 判词（第五回 · 程乙本）</h3>
+<blockquote>
+<p>画着一枝桂花，下面有一池沼，其中水涸泥干，莲枯藕败。后面书云：</p>
+<p><strong>根并荷花一茎香，</strong>
+<strong>平生遭际实堪伤。</strong>
+<strong>自从两地生孤木，</strong>
+<strong>致使香魂返故乡。</strong></p>
+</blockquote>
+<p><strong>[现代白话译注]</strong> "根并荷花一茎香"——荷花即菱花，香菱本姓甄，英莲为莲，香菱为菱。"自从两地生孤木"——"两地生孤木"合成"桂"字，指夏金桂。"致使香魂返故乡"——被夏金桂折磨死。</p>
+<p><strong>[Hawkes 译文]</strong></p>
+<blockquote>
+<p>The water-lily and the caltrop share the same stem;
+A life of sorrow, a life of pain.
+From the day two lands bring forth the lonely tree,
+Her sweet soul is called back to its former dwelling.
+<em>Hawkes, Vol. 1, p. 201</em></p>
+</blockquote>
+<hr>
+<h2>关键语段</h2>
+<h3>2. 拜师学诗（第四十八回 · 程乙本 · 节选）</h3>
+<blockquote>
+<p>香菱笑道："……我只爱陆放翁的诗：'重帘不卷留香久，古砚微凹聚墨多'……"</p>
+</blockquote>
+<blockquote>
+<p>[回目出处] 第 48 回 · 程乙本 · 页 651
+[英译] Hawkes, Vol. 3, p. 776</p>
+</blockquote>
+<h3>3. 《吟月》其三（第四十八回 · 程乙本）</h3>
+<blockquote>
+<p>精华欲掩料应难，影自娟娟魄自寒。
+一片砧敲千里白，半轮鸡唱五更残。
+绿蓑江上秋闻笛，红袖楼头夜倚栏。
+博得嫦娥应自问，何缘不使永团圆？</p>
+</blockquote>
+<blockquote>
+<p>[回目出处] 第 48 回 · 程乙本 · 页 654
+[英译] Hawkes, Vol. 3, p. 778</p>
+</blockquote>
+<h3>4. 情解石榴裙（第六十二回 · 程乙本 · 节选）</h3>
+<blockquote>
+<p>香菱……正在芳官背后看热闹，……不小心将石榴裙污湿。宝玉……替他换了一条。</p>
+</blockquote>
+<blockquote>
+<p>[回目出处] 第 62 回 · 程乙本 · 页 851
+[英译] Hawkes, Vol. 3, p. 287</p>
+</blockquote>
+<h3>5. 改名秋菱（第八十回 · 程乙本 · 节选）</h3>
+<blockquote>
+<p>金桂……叫他"秋菱"。香菱……只得依了。</p>
+</blockquote>
+<blockquote>
+<p>[回目出处] 第 80 回 · 程乙本 · 页 1135
+[英译] Hawkes, Vol. 4, p. 24</p>
+</blockquote>
+<hr>
+<p>最后更新：2026-07-20</p>
+2:["$","article",null,{"className":"space-y-8","children":[["$","header",null,{"className":"border-b border-ink/20 pb-6","children":["$","div",null,{"className":"flex flex-col md:flex-row gap-6 items-start","children":[null,["$","div",null,{"className":"flex-1","children":[["$","p",null,{"className":"text-sm opacity-60 mb-1","children":[["$","$L9",null,{"href":"/zh/character","className":"hover:underline","children":"人物"}]," · ","贾府"]}],["$","h1",null,{"className":"font-kai text-4xl font-bold mb-2","children":"香菱（甄英莲）"}],["$","p",null,{"className":"text-lg opacity-70 mb-3","children":"甄英莲 · 香菱 · 秋菱（夏金桂改）"}],["$","p",null,{"className":"prose-judgement text-sm italic","children":"> **[别称]** 甄英莲 · 香菱 · 秋菱（夏金桂改）  "}]]}]]}]}],["$","section",null,{"className":"prose-quote prose max-w-none","dangerouslySetInnerHTML":{"__html":"$a"}}],["$","section",null,{"children":[["$","h2",null,{"className":"text-2xl font-bold mb-4 font-kai border-b border-ink/20 pb-2","children":"故事时间线"}],["$","div",null,{"className":"prose max-w-none","dangerouslySetInnerHTML":{"__html":"$b"}}]]}],["$","section",null,{"children":[["$","h2",null,{"className":"text-2xl font-bold mb-4 font-kai border-b border-ink/20 pb-2","children":"原文与译文"}],["$","div",null,{"className":"prose max-w-none","dangerouslySetInnerHTML":{"__html":"$c"}}]]}],false,["$","footer",null,{"className":"text-center text-sm opacity-60 pt-8 border-t border-ink/20","children":["$","$L9",null,{"href":"/zh/character","className":"hover:underline","children":["← ","返回人物列表"]}]}]]}]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"香菱（甄英莲）"}],["$","meta","3",{"name":"description","content":"> **[别称]** 甄英莲 · 香菱 · 秋菱（夏金桂改）  "}]]
+1:null

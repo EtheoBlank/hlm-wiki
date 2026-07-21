@@ -1,0 +1,139 @@
+3:I[9275,[],""]
+6:I[1343,[],""]
+7:I[3589,["231","static/chunks/231-f35b59634dca96cb.js","185","static/chunks/app/layout-e8cd247004b66694.js"],"TopNav"]
+4:["lang","zh","d"]
+5:["id","jia-family%2Fjia-lian","d"]
+0:["CkjgqcJKdN0iF54AsLwNp",[[["",{"children":[["lang","zh","d"],{"children":["character",{"children":[["id","jia-family%2Fjia-lian","d"],{"children":["__PAGE__?{\"lang\":\"zh\",\"id\":\"jia-family/jia-lian\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["lang","zh","d"],{"children":["character",{"children":[["id","jia-family%2Fjia-lian","d"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children","character","children","$5","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children","character","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},[["$","html",null,{"lang":"zh","children":["$","body",null,{"className":"min-h-screen","children":[["$","$L7",null,{"lang":"zh"}],["$","main",null,{"className":"max-w-5xl mx-auto px-4 py-8","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}]}],["$","footer",null,{"className":"mt-16 py-8 border-t border-ink/20 text-center text-sm opacity-70","children":["红楼梦人物维基 · 基于程乙本（俞平伯校注人文社本）+ 脂批异文 · Hawkes 精修英译 ·"," ",["$","a",null,{"href":"https://github.com/anomalyco/hlm-wiki","target":"_blank","rel":"noreferrer","children":"GitHub"}]]}]]}]}],null],null],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/607f3a07d5b3a78f.css","precedence":"next","crossOrigin":"$undefined"}]],[null,"$L8"]]]]]
+9:I[231,["231","static/chunks/231-f35b59634dca96cb.js","389","static/chunks/app/%5Blang%5D/character/%5Bid%5D/page-9a15f7f10ab65c99.js"],""]
+a:T817,<h1>贾琏 / Jia Lian</h1>
+<blockquote>
+<p><strong>[别称]</strong> 琏二爷<br>
+<strong>[身份]</strong> 贾赦之子 · 凤姐之夫<br>
+<strong>[结局]</strong> 第 105 回被查抄</p>
+</blockquote>
+<hr>
+<h2>档案 / Profile</h2>
+<table>
+<thead>
+<tr>
+<th>项目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>中文名</td>
+<td>贾琏</td>
+</tr>
+<tr>
+<td>拼音</td>
+<td>Jiǎ Liǎn</td>
+</tr>
+<tr>
+<td>别号</td>
+<td>琏二爷</td>
+</tr>
+<tr>
+<td>性别</td>
+<td>男</td>
+</tr>
+<tr>
+<td>出身</td>
+<td>荣国府（贾赦之子）</td>
+</tr>
+<tr>
+<td>父</td>
+<td>贾赦</td>
+</tr>
+<tr>
+<td>母</td>
+<td>邢夫人（[待校] 邢夫人或非亲生母）</td>
+</tr>
+<tr>
+<td>妻</td>
+<td>王熙凤</td>
+</tr>
+<tr>
+<td>妾（后）</td>
+<td>尤二姐、秋桐</td>
+</tr>
+<tr>
+<td>女</td>
+<td>贾巧姐</td>
+</tr>
+<tr>
+<td>住所</td>
+<td>荣国府</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>性格与形象 / Personality</h2>
+<h3>性格特征</h3>
+<ul>
+<li><strong>好色</strong>：多姑娘、鲍二家、尤二姐</li>
+<li><strong>惧内</strong>：怕凤姐</li>
+<li><strong>不理事</strong>：管家由凤姐做主</li>
+<li><strong>尚能办事</strong>：林如海丧事、平安州出差</li>
+</ul>
+<hr>
+<h2>关键事件 / Key Events</h2>
+<table>
+<thead>
+<tr>
+<th>回目</th>
+<th>事件</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>第 7 回</td>
+<td>送宫花</td>
+</tr>
+<tr>
+<td>第 14 回</td>
+<td>送黛玉南下</td>
+</tr>
+<tr>
+<td>第 21 回</td>
+<td>多姑娘私通</td>
+</tr>
+<tr>
+<td>第 44 回</td>
+<td>鲍二家私通，凤姐泼醋</td>
+</tr>
+<tr>
+<td>第 64–65 回</td>
+<td>偷娶尤二姐</td>
+</tr>
+<tr>
+<td>第 68–69 回</td>
+<td>凤姐大闹宁国府，逼死尤二姐</td>
+</tr>
+<tr>
+<td>第 92 回</td>
+<td>巧姐读《女四书》</td>
+</tr>
+<tr>
+<td>第 119 回</td>
+<td>巧姐许字板儿</td>
+</tr>
+<tr>
+<td>第 120 回</td>
+<td>巧姐嫁板儿</td>
+</tr>
+<tr>
+<td>第 105 回</td>
+<td>锦衣军查抄</td>
+</tr>
+<tr>
+<td>第 113 回</td>
+<td>送巧姐到刘姥姥家</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<p>最后更新：2026-07-20</p>
+2:["$","article",null,{"className":"space-y-8","children":[["$","header",null,{"className":"border-b border-ink/20 pb-6","children":["$","div",null,{"className":"flex flex-col md:flex-row gap-6 items-start","children":[null,["$","div",null,{"className":"flex-1","children":[["$","p",null,{"className":"text-sm opacity-60 mb-1","children":[["$","$L9",null,{"href":"/zh/character","className":"hover:underline","children":"人物"}]," · ","贾府"]}],["$","h1",null,{"className":"font-kai text-4xl font-bold mb-2","children":"贾琏"}],["$","p",null,{"className":"text-lg opacity-70 mb-3","children":"琏二爷"}],["$","p",null,{"className":"prose-judgement text-sm italic","children":"> **[别称]** 琏二爷  "}]]}]]}]}],["$","section",null,{"className":"prose-quote prose max-w-none","dangerouslySetInnerHTML":{"__html":"$a"}}],["$","section",null,{"children":[["$","h2",null,{"className":"text-2xl font-bold mb-4 font-kai border-b border-ink/20 pb-2","children":"故事时间线"}],["$","div",null,{"className":"prose max-w-none","dangerouslySetInnerHTML":{"__html":"<h1>贾琏 · 故事时间线</h1>\n<h3>第 7 回 · 送宫花</h3>\n<ul>\n<li>送宫花串场</li>\n</ul>\n<h3>第 14 回 · 送黛玉南下</h3>\n<ul>\n<li>送黛玉南下奔丧，与黛玉同行</li>\n</ul>\n<h3>第 21 回 · 多姑娘私通</h3>\n<ul>\n<li>与多姑娘私通</li>\n</ul>\n<h3>第 44 回 · 鲍二家私通</h3>\n<ul>\n<li>凤姐生日，鲍二家的私通，凤姐泼醋</li>\n</ul>\n<h3>第 64–65 回 · 偷娶尤二姐</h3>\n<ul>\n<li>偷娶尤二姐于花枝巷</li>\n</ul>\n<h3>第 68–69 回 · 凤姐大闹</h3>\n<ul>\n<li>凤姐大闹宁国府，逼死尤二姐</li>\n</ul>\n<h3>第 92 回 · 巧姐相关</h3>\n<ul>\n<li>巧姐读《女四书》</li>\n</ul>\n<h3>第 105 回 · 锦衣军查抄</h3>\n<ul>\n<li>贾琏被查抄</li>\n</ul>\n<h3>第 113 回 · 送巧姐</h3>\n<ul>\n<li>凤姐临终托孤，送巧姐到刘姥姥家</li>\n</ul>\n<p>最后更新：2026-07-20</p>\n"}}]]}],["$","section",null,{"children":[["$","h2",null,{"className":"text-2xl font-bold mb-4 font-kai border-b border-ink/20 pb-2","children":"原文与译文"}],["$","div",null,{"className":"prose max-w-none","dangerouslySetInnerHTML":{"__html":"<h1>贾琏 · 原文与译文</h1>\n<h2>关键语段</h2>\n<h3>1. 送黛玉南下（第十四回 · 程乙本 · 节选）</h3>\n<blockquote>\n<p>贾琏……带了林黛玉……南下。</p>\n</blockquote>\n<blockquote>\n<p>[回目出处] 第 14 回 · 程乙本 · 页 185\n[英译] Hawkes, Vol. 1, p. 446</p>\n</blockquote>\n<h3>2. 鲍二家私通（第四十四回 · 程乙本 · 节选）</h3>\n<blockquote>\n<p>贾琏……与鲍二家的……私通。</p>\n</blockquote>\n<blockquote>\n<p>[回目出处] 第 44 回 · 程乙本 · 页 596\n[英译] Hawkes, Vol. 2, p. 627</p>\n</blockquote>\n<h3>3. 偷娶尤二姐（第六十四回 · 程乙本 · 节选）</h3>\n<blockquote>\n<p>贾琏……偷娶尤二姐于花枝巷。</p>\n</blockquote>\n<blockquote>\n<p>[回目出处] 第 64 回 · 程乙本 · 页 893\n[英译] Hawkes, Vol. 3, p. 359</p>\n</blockquote>\n<h3>4. 送巧姐到刘姥姥家（第一百一十三回 · 程乙本 · 节选）</h3>\n<blockquote>\n<p>贾琏……送巧姐到刘姥姥家。</p>\n</blockquote>\n<blockquote>\n<p>[回目出处] 第 113 回 · 程乙本 · 页 1506\n[英译] Minford, Vol. 5, p. 412</p>\n</blockquote>\n<hr>\n<p>最后更新：2026-07-20</p>\n"}}]]}],false,["$","footer",null,{"className":"text-center text-sm opacity-60 pt-8 border-t border-ink/20","children":["$","$L9",null,{"href":"/zh/character","className":"hover:underline","children":["← ","返回人物列表"]}]}]]}]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"贾琏"}],["$","meta","3",{"name":"description","content":"> **[别称]** 琏二爷  "}]]
+1:null

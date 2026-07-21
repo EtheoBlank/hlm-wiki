@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002F[lang]","\u002F[lang]\u002Fcharacter","\u002F[lang]\u002Fcharacter\u002F[id]","\u002F[lang]\u002Fsearch"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()

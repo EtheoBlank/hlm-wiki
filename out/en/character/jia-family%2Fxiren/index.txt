@@ -1,0 +1,343 @@
+3:I[9275,[],""]
+6:I[1343,[],""]
+7:I[3589,["231","static/chunks/231-f35b59634dca96cb.js","185","static/chunks/app/layout-e8cd247004b66694.js"],"TopNav"]
+4:["lang","en","d"]
+5:["id","jia-family%2Fxiren","d"]
+0:["CkjgqcJKdN0iF54AsLwNp",[[["",{"children":[["lang","en","d"],{"children":["character",{"children":[["id","jia-family%2Fxiren","d"],{"children":["__PAGE__?{\"lang\":\"en\",\"id\":\"jia-family/xiren\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["lang","en","d"],{"children":["character",{"children":[["id","jia-family%2Fxiren","d"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children","character","children","$5","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children","character","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},[["$","html",null,{"lang":"zh","children":["$","body",null,{"className":"min-h-screen","children":[["$","$L7",null,{"lang":"zh"}],["$","main",null,{"className":"max-w-5xl mx-auto px-4 py-8","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}]}],["$","footer",null,{"className":"mt-16 py-8 border-t border-ink/20 text-center text-sm opacity-70","children":["红楼梦人物维基 · 基于程乙本（俞平伯校注人文社本）+ 脂批异文 · Hawkes 精修英译 ·"," ",["$","a",null,{"href":"https://github.com/anomalyco/hlm-wiki","target":"_blank","rel":"noreferrer","children":"GitHub"}]]}]]}]}],null],null],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/607f3a07d5b3a78f.css","precedence":"next","crossOrigin":"$undefined"}]],[null,"$L8"]]]]]
+9:I[231,["231","static/chunks/231-f35b59634dca96cb.js","389","static/chunks/app/%5Blang%5D/character/%5Bid%5D/page-9a15f7f10ab65c99.js"],""]
+a:T150c,<h1>袭人 / Xiren</h1>
+<blockquote>
+<p><strong>[别称]</strong> 花珍珠（原名） · 袭人（宝玉改）<br>
+<strong>[身份]</strong> 金陵十二钗又副册 · 贾宝玉首席丫鬟 · 后嫁蒋玉菡<br>
+<strong>[结局]</strong> "枉自温柔和顺" · 嫁蒋玉菡<br>
+<strong>[判词]</strong> "枉自温柔和顺，空云似桂如兰"<br>
+<strong>[曲]</strong> 《好事终》之副</p>
+</blockquote>
+<hr>
+<h2>档案 / Profile</h2>
+<table>
+<thead>
+<tr>
+<th>项目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>中文名</td>
+<td>袭人</td>
+</tr>
+<tr>
+<td>拼音</td>
+<td>Xìrén</td>
+</tr>
+<tr>
+<td>原名</td>
+<td>花珍珠</td>
+</tr>
+<tr>
+<td>别号</td>
+<td>袭人、袭姐姐、珍珠</td>
+</tr>
+<tr>
+<td>性别</td>
+<td>女</td>
+</tr>
+<tr>
+<td>籍贯</td>
+<td>[待校] 程乙本未明载</td>
+</tr>
+<tr>
+<td>父母</td>
+<td>[待校] 程乙本未明载</td>
+</tr>
+<tr>
+<td>卖入</td>
+<td>贾母处（后拨与宝玉）</td>
+</tr>
+<tr>
+<td>师父</td>
+<td>[无]</td>
+</tr>
+<tr>
+<td>住所</td>
+<td>怡红院</td>
+</tr>
+<tr>
+<td>嫁</td>
+<td>蒋玉菡（程乙本第 120 回）</td>
+</tr>
+<tr>
+<td>结局</td>
+<td>第 120 回：嫁蒋玉菡</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>判词 / Key Verse</h2>
+<h3>金陵十二钗又副册 · 第二页 · 袭人</h3>
+<blockquote>
+<p>画着一簇鲜花，一床破席，也有几句言词，写道是：</p>
+<p><strong>枉自温柔和顺，</strong>
+<strong>空云似桂如兰。</strong>
+<strong>堪羡优伶有福，</strong>
+<strong>谁知公子无缘。</strong></p>
+</blockquote>
+<blockquote>
+<p>[现代白话译注] 枉自温柔和顺，空有似桂如兰的品性。可羡那优伶（蒋玉菡）有福，谁知与公子（宝玉）无缘。</p>
+</blockquote>
+<blockquote>
+<p>[英译] Hawkes, Vol. 1, p. 201</p>
+</blockquote>
+<hr>
+<h2>第一次出场 / First Appearance</h2>
+<h3>第 3 回 · 程乙本 · 服侍黛玉</h3>
+<blockquote>
+<p>袭人……笑问道："姑娘怎么还不安息？"</p>
+</blockquote>
+<blockquote>
+<p>[回目出处] 第 3 回 · 程乙本 · 页 53
+[英译] Hawkes, Vol. 1, p. 123</p>
+</blockquote>
+<h3>第 6 回 · "初试云雨情"</h3>
+<blockquote>
+<p>袭人……遂与宝玉"初试云雨"。</p>
+</blockquote>
+<hr>
+<h2>性格与形象 / Personality</h2>
+<h3>性格特征</h3>
+<ul>
+<li><strong>温柔和顺</strong>：王夫人评价"心地纯良"</li>
+<li><strong>尽职尽责</strong>：服侍宝玉周全</li>
+<li><strong>略显世故</strong>：第 34 回向王夫人进言让宝玉搬出大观园</li>
+<li><strong>心性坚定</strong>：始终如一</li>
+<li><strong>温柔有余、刚烈不足</strong>：与晴雯对比</li>
+</ul>
+<h3>关键语录</h3>
+<ul>
+<li>"……如今且别说那些……"（第 19 回箴劝宝玉）</li>
+<li>"……好歹留着麝月……"（第 21 回箴劝）</li>
+<li>"……我原不该多嘴……"（第 34 回向王夫人进言）</li>
+<li>"……我原是早该出府的……"（第 120 回嫁蒋玉菡时）</li>
+</ul>
+<hr>
+<h2>关键事件 / Key Events</h2>
+<table>
+<thead>
+<tr>
+<th>回目</th>
+<th>事件</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>第 3 回</td>
+<td>首次出场</td>
+</tr>
+<tr>
+<td>第 6 回</td>
+<td>与宝玉"初试云雨"</td>
+</tr>
+<tr>
+<td>第 19 回</td>
+<td>"情切切良宵花解语"——箴劝宝玉</td>
+</tr>
+<tr>
+<td>第 21 回</td>
+<td>"贤袭人娇嗔箴宝玉"</td>
+</tr>
+<tr>
+<td>第 23 回</td>
+<td>与宝玉共读《西厢》</td>
+</tr>
+<tr>
+<td>第 34 回</td>
+<td>向王夫人进言（让宝玉搬出大观园）</td>
+</tr>
+<tr>
+<td>第 36 回</td>
+<td>宝玉梦中喊骂</td>
+</tr>
+<tr>
+<td>第 57 回</td>
+<td>[脂批·伏笔] 汗巾是日后嫁蒋玉菡的伏笔（[待校] 此回回目"慧紫鹃情辞试忙玉"未明写汗巾，实际汗巾伏笔见第 28、31、120 回）</td>
+</tr>
+<tr>
+<td>第 77 回</td>
+<td>晴雯被撵，袭人探望</td>
+</tr>
+<tr>
+<td>第 120 回</td>
+<td>袭人嫁蒋玉菡（伏笔兑现）</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>红学评点 / Scholarly Notes</h2>
+<h3>脂批摘要</h3>
+<ul>
+<li>[脂批·庚辰本] 第 6 回："……袭人初试云雨，是'情'之始。"</li>
+<li>[脂批·庚辰本] 第 21 回："……袭人之箴，胜过父母。"</li>
+</ul>
+<h3>现代研究</h3>
+<ul>
+<li><strong>欧丽娟</strong>：袭人是"宝钗之影"；《大观红楼》卷三页 178。</li>
+<li><strong>王蒙</strong>：袭人"是最能服侍人者"；《王蒙活说红楼梦》。</li>
+<li><strong>白先勇</strong>：袭人"是传统贤妇的代表"；《白先勇细说红楼梦》。</li>
+</ul>
+<hr>
+<h2>[脂批·推测] 八十回后结局</h2>
+<ul>
+<li>[脂批] 嫁蒋玉菡——与程乙本一致</li>
+<li>[脂批] "堪羡优伶有福"——蒋玉菡是优伶</li>
+<li>[脂批] "汗巾"伏笔：第 28 回蒋玉菡赠宝玉大红汗巾，宝玉转赠袭人；第 120 回袭人嫁蒋玉菡时汗巾回到袭人手中</li>
+</ul>
+<hr>
+<h2>引用与版本 / Citations</h2>
+<ul>
+<li>《红楼梦》第 3、6、19、21、23、34、36、57、77、109、120 回 · 程乙本 · 俞平伯校注 · 人民文学出版社 · 1982</li>
+<li>Hawkes, <em>The Story of the Stone</em>, Vol. 1, Penguin, 1973, p. 123（首次出场）、p. 201（判词）</li>
+<li>Hawkes, <em>The Story of the Stone</em>, Vol. 2, Penguin, 1977</li>
+<li>Hawkes &#x26; Minford, <em>The Story of the Stone</em>, Vol. 5, Penguin, 1986（120 回）</li>
+</ul>
+<p>最后更新：2026-07-20</p>
+b:T704,<h1>袭人 · 故事时间线</h1>
+<hr>
+<h2>出场</h2>
+<h3>第 3 回 · 服侍黛玉</h3>
+<ul>
+<li>袭人服侍黛玉</li>
+<li>服侍宝玉</li>
+</ul>
+<h3>第 6 回 · 初试云雨</h3>
+<ul>
+<li>与宝玉"初试云雨"</li>
+</ul>
+<hr>
+<h2>服侍与箴劝</h2>
+<h3>第 19 回 · 情切切良宵花解语</h3>
+<ul>
+<li>袭人箴劝宝玉</li>
+<li>"情切切良宵花解语"——袭人"解语"</li>
+</ul>
+<h3>第 21 回 · 贤袭人娇嗔箴宝玉</h3>
+<ul>
+<li>再次箴劝</li>
+<li>宝玉续《庄子》记述</li>
+</ul>
+<h3>第 23 回 · 共读《西厢》</h3>
+<h3>第 34 回 · 进言王夫人</h3>
+<ul>
+<li>袭人向王夫人进言</li>
+<li>建议让宝玉搬出大观园</li>
+<li>王夫人从此看重袭人</li>
+</ul>
+<h3>第 36 回 · 宝玉梦中骂</h3>
+<ul>
+<li>宝玉梦中喊骂</li>
+<li>袭人惊醒</li>
+</ul>
+<hr>
+<h2>重要伏笔</h2>
+<h3>第 28 回 · 蒋玉菡赠大红汗巾</h3>
+<ul>
+<li>蒋玉菡赠宝玉大红汗巾</li>
+<li>宝玉转赠袭人</li>
+<li><strong>伏笔</strong>：袭人嫁蒋玉菡</li>
+</ul>
+<hr>
+<h2>抄检大观园</h2>
+<h3>第 77 回 · 司棋被撵</h3>
+<ul>
+<li>袭人探病司棋</li>
+<li>晴雯被撵</li>
+</ul>
+<hr>
+<h2>嫁蒋玉菡</h2>
+<h3>第 109 回 · 候芳魂五儿承错爱</h3>
+<ul>
+<li>袭人欲出府</li>
+</ul>
+<h3>第 120 回 · 甄士隐详说太虚情</h3>
+<ul>
+<li>袭人嫁蒋玉菡</li>
+<li>汗巾回到袭人手中（伏笔兑现）</li>
+<li><strong>意义</strong>："堪羡优伶有福"</li>
+</ul>
+<hr>
+<h2>[脂批·推测] 八十回后结局</h2>
+<ul>
+<li>[脂批] 嫁蒋玉菡——与程乙本一致</li>
+<li>[脂批] "堪羡优伶有福"——蒋玉菡为优伶</li>
+<li>[脂批] 袭人是宝钗之影——脂批多次强调</li>
+</ul>
+<hr>
+<p>[回目数据来源：planning/04-timeline.md]
+最后更新：2026-07-20</p>
+c:T9e3,<h1>袭人 · 原文与译文</h1>
+<hr>
+<h2>判词与曲</h2>
+<h3>1. 判词（第五回 · 程乙本）</h3>
+<blockquote>
+<p>画着一簇鲜花，一床破席，也有几句言词，写道是：</p>
+<p><strong>枉自温柔和顺，</strong>
+<strong>空云似桂如兰。</strong>
+<strong>堪羡优伶有福，</strong>
+<strong>谁知公子无缘。</strong></p>
+</blockquote>
+<p><strong>[现代白话译注]</strong> 枉自温柔和顺，空有似桂如兰的品性。可羡那优伶（蒋玉菡）有福，谁知与公子（宝玉）无缘。</p>
+<p><strong>[Hawkes 译文]</strong></p>
+<blockquote>
+<p>In vain was her gentleness and compliance,
+Empty the praise of fragrance like cassia and orchid.
+Lucky the actor who is blessed in his lot,
+But the young master is fated to have no part in her.
+<em>Hawkes, Vol. 1, p. 201</em></p>
+</blockquote>
+<hr>
+<h2>关键语段</h2>
+<h3>2. 服侍黛玉（第三回 · 程乙本 · 节选）</h3>
+<blockquote>
+<p>袭人……笑问道："姑娘怎么还不安息？……"</p>
+</blockquote>
+<blockquote>
+<p>[回目出处] 第 3 回 · 程乙本 · 页 53
+[英译] Hawkes, Vol. 1, p. 123</p>
+</blockquote>
+<h3>3. "情切切良宵花解语"（第十九回 · 程乙本 · 节选）</h3>
+<blockquote>
+<p>袭人……笑道："……你真喜读书也罢，假喜也罢，只是在老爷跟前……"</p>
+</blockquote>
+<blockquote>
+<p>[回目出处] 第 19 回 · 程乙本 · 页 261
+[英译] Hawkes, Vol. 1, p. 605</p>
+</blockquote>
+<h3>4. 向王夫人进言（第三十四回 · 程乙本 · 节选）</h3>
+<blockquote>
+<p>袭人……道："……我想着……二爷……依奴才的意思，……还是叫二爷搬出园外来住……"</p>
+</blockquote>
+<blockquote>
+<p>[回目出处] 第 34 回 · 程乙本 · 页 472
+[英译] Hawkes, Vol. 2, p. 314</p>
+</blockquote>
+<h3>5. 蒋玉菡赠汗巾（第二十八回 · 程乙本 · 节选）</h3>
+<blockquote>
+<p>蒋玉菡……将系小衣儿一条大红汗巾子解下来，递给宝玉道："……这汗巾子是北静王所赐……"</p>
+</blockquote>
+<blockquote>
+<p>[回目出处] 第 28 回 · 程乙本 · 页 393
+[英译] Hawkes, Vol. 2, p. 432</p>
+</blockquote>
+<h3>6. 嫁蒋玉菡（第一百二十回 · 程乙本 · 节选）</h3>
+<blockquote>
+<p>蒋玉菡……一见……这汗巾子，正是袭人当年从宝玉手中拿的那一条。……</p>
+</blockquote>
+<blockquote>
+<p>[回目出处] 第 120 回 · 程乙本 · 页 1614
+[英译] Minford, Vol. 5, p. 600</p>
+</blockquote>
+<hr>
+<p>最后更新：2026-07-20</p>
+2:["$","article",null,{"className":"space-y-8","children":[["$","header",null,{"className":"border-b border-ink/20 pb-6","children":["$","div",null,{"className":"flex flex-col md:flex-row gap-6 items-start","children":[null,["$","div",null,{"className":"flex-1","children":[["$","p",null,{"className":"text-sm opacity-60 mb-1","children":[["$","$L9",null,{"href":"/en/character","className":"hover:underline","children":"Characters"}]," · ","贾府"]}],["$","h1",null,{"className":"font-kai text-4xl font-bold mb-2","children":"袭人"}],["$","p",null,{"className":"text-lg opacity-70 mb-3","children":"花珍珠（原名） · 袭人（宝玉改）"}],["$","p",null,{"className":"prose-judgement text-sm italic","children":"> [英译] Hawkes, Vol. 1, p. 201"}]]}]]}]}],["$","section",null,{"className":"prose-quote prose max-w-none","dangerouslySetInnerHTML":{"__html":"$a"}}],["$","section",null,{"children":[["$","h2",null,{"className":"text-2xl font-bold mb-4 font-kai border-b border-ink/20 pb-2","children":"Story Timeline"}],["$","div",null,{"className":"prose max-w-none","dangerouslySetInnerHTML":{"__html":"$b"}}]]}],["$","section",null,{"children":[["$","h2",null,{"className":"text-2xl font-bold mb-4 font-kai border-b border-ink/20 pb-2","children":"Original & Translation"}],["$","div",null,{"className":"prose max-w-none","dangerouslySetInnerHTML":{"__html":"$c"}}]]}],false,["$","footer",null,{"className":"text-center text-sm opacity-60 pt-8 border-t border-ink/20","children":["$","$L9",null,{"href":"/en/character","className":"hover:underline","children":["← ","Back to Characters"]}]}]]}]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"袭人"}],["$","meta","3",{"name":"description","content":"> **[别称]** 花珍珠（原名） · 袭人（宝玉改）  "}]]
+1:null
