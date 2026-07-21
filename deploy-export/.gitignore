@@ -1,0 +1,51 @@
+# Dependencies
+node_modules/
+**/node_modules/
+.pnpm-store/
+
+# Build outputs
+.next/
+**/.next/
+out/
+**/out/
+dist/
+**/dist/
+build/
+**/build/
+
+# Vercel
+.vercel/
+**/.vercel/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+
+# Local env
+.env
+.env.local
+.env.*.local
+
+# Vercel deployment metadata (added by vercel CLI)
+.vercel
+
+# Generated
+*.tsbuildinfo
+
+# Cache directories
+.cache/
+**/.cache/
+.turbo/
+**/.turbo/
