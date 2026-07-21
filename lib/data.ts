@@ -2,7 +2,7 @@ import fs from 'fs'
 import path from 'path'
 import matter from 'gray-matter'
 
-const CONTENT_DIR = path.join(process.cwd(), '..', 'content')
+const CONTENT_DIR = path.join(process.cwd(), 'content')
 
 export interface CharacterProfile {
   id: string            // e.g. "jia-family/jia-baoyu"
@@ -205,7 +205,7 @@ export function getPortraitUrl(id: string): string | null {
   const family = parts[0]
   const slug = parts.slice(1).join('/')
 
-  const portraitDir = path.join(process.cwd(), '..', 'assets', 'portraits', family, slug)
+  const portraitDir = path.join(process.cwd(), 'assets', 'portraits', family, slug)
   if (!fs.existsSync(portraitDir)) return null
 
   const files = fs.readdirSync(portraitDir).filter((f) => f.endsWith('.jpg'))

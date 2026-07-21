@@ -56,3 +56,6 @@ hlm-wiki.bundledeploy-export/
 site/node_modules/
 site/.next/
 site/out/
+.next/
+out/
+*.tsbuildinfo

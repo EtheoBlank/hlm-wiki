@@ -13,6 +13,7 @@ export function TopNav({ lang }: Props) {
   const navItems = [
     { href: `/${lang}`, label: isZh ? '首页' : 'Home' },
     { href: `/${lang}/character`, label: isZh ? '人物' : 'Characters' },
+    { href: `/${lang}/search`, label: isZh ? '搜索' : 'Search' },
     { href: `/${lang}/family/jia-family`, label: isZh ? '家族' : 'Families' },
     { href: `/${lang}/timeline`, label: isZh ? '时间线' : 'Timeline' },
     { href: `/${lang}/glossary`, label: isZh ? '术语表' : 'Glossary' },
