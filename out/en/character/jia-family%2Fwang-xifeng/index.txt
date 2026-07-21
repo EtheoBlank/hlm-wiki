@@ -1,0 +1,546 @@
+3:I[9275,[],""]
+6:I[1343,[],""]
+7:I[3589,["231","static/chunks/231-f35b59634dca96cb.js","185","static/chunks/app/layout-e8cd247004b66694.js"],"TopNav"]
+4:["lang","en","d"]
+5:["id","jia-family%2Fwang-xifeng","d"]
+0:["Qk9ZsEOnzOjMslMZ-SxD5",[[["",{"children":[["lang","en","d"],{"children":["character",{"children":[["id","jia-family%2Fwang-xifeng","d"],{"children":["__PAGE__?{\"lang\":\"en\",\"id\":\"jia-family/wang-xifeng\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["lang","en","d"],{"children":["character",{"children":[["id","jia-family%2Fwang-xifeng","d"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children","character","children","$5","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children","character","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},[["$","html",null,{"lang":"zh","children":["$","body",null,{"className":"min-h-screen","children":[["$","$L7",null,{"lang":"zh"}],["$","main",null,{"className":"max-w-5xl mx-auto px-4 py-8","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}]}],["$","footer",null,{"className":"mt-16 py-8 border-t border-ink/20 text-center text-sm opacity-70","children":["红楼梦人物维基 · 基于程乙本（俞平伯校注人文社本）+ 脂批异文 · Hawkes 精修英译 ·"," ",["$","a",null,{"href":"https://github.com/anomalyco/hlm-wiki","target":"_blank","rel":"noreferrer","children":"GitHub"}]]}]]}]}],null],null],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/607f3a07d5b3a78f.css","precedence":"next","crossOrigin":"$undefined"}]],[null,"$L8"]]]]]
+9:I[231,["231","static/chunks/231-f35b59634dca96cb.js","389","static/chunks/app/%5Blang%5D/character/%5Bid%5D/page-bda91a835043d815.js"],""]
+a:T24fa,<h1>王熙凤 / Wang Xifeng / Phoenix</h1>
+<blockquote>
+<p><strong>[别称]</strong> 凤姐 · 凤辣子 · 凤哥儿 · 凡鸟 · 凤丫头<br>
+<strong>[身份]</strong> 金陵十二钗正册 · 贾琏之妻 · 王夫人侄女 · 荣国府管家奶奶<br>
+<strong>[结局]</strong> "哭向金陵事更哀"（脂批） / 程乙本末"力诎失人心"而死<br>
+<strong>[判词]</strong> "凡鸟偏从末世来"<br>
+<strong>[曲]</strong> 《聪明累》</p>
+</blockquote>
+<hr>
+<h2>档案 / Profile</h2>
+<table>
+<thead>
+<tr>
+<th>项目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>中文名</td>
+<td>王熙凤</td>
+</tr>
+<tr>
+<td>拼音</td>
+<td>Wáng Xīfèng</td>
+</tr>
+<tr>
+<td>别号</td>
+<td>凤姐、凤辣子、凤哥儿、凤丫头、琏二奶奶</td>
+</tr>
+<tr>
+<td>性别</td>
+<td>女</td>
+</tr>
+<tr>
+<td>籍贯</td>
+<td>金陵（王家） · 生长于长安/京城</td>
+</tr>
+<tr>
+<td>出身</td>
+<td>王子腾之侄女，王夫人内侄女</td>
+</tr>
+<tr>
+<td>父</td>
+<td>[待校] 程乙本未明载；脂批暗示</td>
+</tr>
+<tr>
+<td>母</td>
+<td>王夫人之嫂（[待校] 程乙本未明载其名；凤姐是王子腾之侄女，王夫人之侄女）</td>
+</tr>
+<tr>
+<td>夫</td>
+<td>贾琏（贾赦之子）</td>
+</tr>
+<tr>
+<td>女</td>
+<td>贾巧姐（巧姐）</td>
+</tr>
+<tr>
+<td>住所</td>
+<td>荣国府 · 东小院</td>
+</tr>
+<tr>
+<td>通房丫鬟</td>
+<td>平儿</td>
+</tr>
+<tr>
+<td>丫鬟</td>
+<td>丰儿、彩明、彩霞（待考）</td>
+</tr>
+<tr>
+<td>结局</td>
+<td>第 110 回："王凤姐力诎失人心"；第 114 回：王熙凤历幻返金陵，死</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>判词 / Key Verse</h2>
+<h3>金陵十二钗正册 · 第十一页 · 熙凤</h3>
+<blockquote>
+<p>后面便是一片冰山，上面有一只雌凤。其判曰：</p>
+<p><strong>凡鸟偏从末世来，</strong>
+<strong>都知爱慕此生才。</strong>
+<strong>一从二令三人木，</strong>
+<strong>哭向金陵事更哀。</strong></p>
+</blockquote>
+<blockquote>
+<p>[现代白话译注] "凡鸟"二字合为"鳳"（凤的繁体）。"凡鸟偏从末世来"——王熙凤偏偏来到贾府衰败的末世。"都知爱慕此生才"——人人都爱她的才干。"一从二令三人木"——红学界争议较大：一说她的一生是"从（顺从）→令（发号施令）→人木（休）"；"人木"合为"休"字，指贾琏休妻。"哭向金陵事更哀"——[脂批] 凤姐被休后哭回金陵，比死更悲哀。</p>
+</blockquote>
+<blockquote>
+<p>[英译] Hawkes, Vol. 1, p. 202</p>
+</blockquote>
+<h3>《聪明累》</h3>
+<blockquote>
+<p>机关算尽太聪明，反误了卿卿性命。生前心已碎，死后性空灵。家富人宁，终有个家亡人散各奔腾。枉费了，意悬悬半世心；好一似，荡悠悠三更梦。忽喇喇似大厦倾，昏惨惨似灯将尽。呀！一场欢喜忽悲辛。叹人世，终难定！</p>
+</blockquote>
+<blockquote>
+<p>[现代白话译注] 用尽心机，过于聪明，反而误了自己的性命。生前心已操碎，死后性也空灵。原本指望家富人宁，终归是家亡人散各奔前程。枉费了这半辈子悬心挂肚；好比那三更的一场梦。"忽喇喇"大厦将倾，"昏惨惨"油灯将灭。呀！一场欢喜忽变悲辛。可叹人世之事，终归难定！</p>
+</blockquote>
+<blockquote>
+<p>[英译] Hawkes, Vol. 1, p. 203</p>
+</blockquote>
+<hr>
+<h2>第一次出场 / First Appearance</h2>
+<h3>第 3 回 · 程乙本 · "未见其人先闻其声"</h3>
+<blockquote>
+<p>一语未了，只听后院中有人笑声，说："我来迟了，不曾迎接远客！"黛玉纳罕道："这些人个个皆敛声屏气，恭肃严整如此，这来者系谁，这样放诞无礼？"心下想时，只见一群媳妇丫鬟围拥着一个人从后房门进来。这个人打扮与众姑娘不同，彩绣辉煌，恍若神妃仙子……一双丹凤三角眼，两弯柳叶吊梢眉，身量苗条，体格风骚。粉面含春威不露，丹唇未启笑先闻。</p>
+</blockquote>
+<blockquote>
+<p>[回目出处] 第 3 回 · 程乙本 · 页 51
+[英译] Hawkes, Vol. 1, p. 122</p>
+</blockquote>
+<hr>
+<h2>性格与形象 / Personality</h2>
+<h3>外貌（第 3 回）</h3>
+<blockquote>
+<p>这个人打扮与众姑娘不同，彩绣辉煌，恍若神妃仙子：头上戴着金丝八宝攒珠髻，绾着朝阳五凤挂珠钗；项上戴着赤金盘螭璎珞圈；裙边系着豆绿宫绦，双衡比目玫瑰佩；身上穿着缕金百蝶穿花大红洋缎窄褃袄，外罩五彩刻丝石青银鼠褂；下着翡翠撒花洋绉裙。一双丹凤三角眼，两弯柳叶吊梢眉，身量苗条，体格风骚。粉面含春威不露，丹唇未启笑先闻。</p>
+</blockquote>
+<blockquote>
+<p>[回目出处] 第 3 回 · 程乙本 · 页 51–52
+[英译] Hawkes, Vol. 1, p. 122</p>
+</blockquote>
+<h3>性格特征</h3>
+<ul>
+<li><strong>精明强干</strong>：管家才干冠绝贾府</li>
+<li><strong>伶牙俐齿</strong>："凤辣子"之名</li>
+<li><strong>泼辣狠毒</strong>：毒设相思局、弄权铁槛寺、逼死尤二姐</li>
+<li><strong>两面三刀</strong>：明里一团火，暗里一把刀</li>
+<li><strong>好强贪财</strong>：月例银、放高利贷</li>
+</ul>
+<h3>关键语录</h3>
+<ul>
+<li>"我倒要问问你，是怎么个主意？"（第 14 回协理宁国府）</li>
+<li>"我从来不信什么阴司地狱报应的，凭是什么事，我说要行就行。"（第 15 回铁槛寺）</li>
+<li>"我是从来不怕的！"（多回）</li>
+<li>"若按私心，那时我就该立刻要死才是。今儿你们也都看见了，我若不治一治，他（指贾瑞）越发要闹了。"（第 12 回）</li>
+</ul>
+<hr>
+<h2>关键事件 / Key Events</h2>
+<table>
+<thead>
+<tr>
+<th>回目</th>
+<th>事件</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>第 3 回</td>
+<td>正式出场，"未见其人先闻其声"</td>
+</tr>
+<tr>
+<td>第 6 回</td>
+<td>刘姥姥一进荣国府，凤姐接济</td>
+</tr>
+<tr>
+<td>第 11–12 回</td>
+<td>毒设相思局，贾瑞亡</td>
+</tr>
+<tr>
+<td>第 13–14 回</td>
+<td>协理宁国府，秦可卿丧事</td>
+</tr>
+<tr>
+<td>第 15 回</td>
+<td>弄权铁槛寺（张金哥案），受贿三千两</td>
+</tr>
+<tr>
+<td>第 16 回</td>
+<td>元春晋封凤藻宫，凤姐请摆宴</td>
+</tr>
+<tr>
+<td>第 25 回</td>
+<td>马道婆魇魔法，凤姐与宝玉同病</td>
+</tr>
+<tr>
+<td>第 30 回</td>
+<td>生日戏彩斑衣</td>
+</tr>
+<tr>
+<td>第 39–42 回</td>
+<td>刘姥姥二进荣国府，凤姐作弄</td>
+</tr>
+<tr>
+<td>第 43–44 回</td>
+<td>凤姐生日泼醋，平儿委屈</td>
+</tr>
+<tr>
+<td>第 54 回</td>
+<td>效戏彩斑衣</td>
+</tr>
+<tr>
+<td>第 55–56 回</td>
+<td>王夫人病中，探春代管</td>
+</tr>
+<tr>
+<td>第 68–69 回</td>
+<td>大闹宁国府，逼死尤二姐</td>
+</tr>
+<tr>
+<td>第 71 回</td>
+<td>贾母八旬，邢夫人当众羞凤姐</td>
+</tr>
+<tr>
+<td>第 72 回</td>
+<td>血山崩初现</td>
+</tr>
+<tr>
+<td>第 74 回</td>
+<td>抄检大观园</td>
+</tr>
+<tr>
+<td>第 101 回</td>
+<td>大观园月夜见秦可卿幽魂</td>
+</tr>
+<tr>
+<td>第 110 回</td>
+<td>贾母死，凤姐失势</td>
+</tr>
+<tr>
+<td>第 113 回</td>
+<td>凤姐托孤刘姥姥</td>
+</tr>
+<tr>
+<td>第 114 回</td>
+<td>凤姐死</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>红学评点 / Scholarly Notes</h2>
+<h3>脂批摘要</h3>
+<ul>
+<li>[脂批·甲戌本] 第 3 回："……凤姐之为人，从来未有。"</li>
+<li>[脂批·庚辰本] 第 12 回："……凤姐之毒，令人胆寒。"</li>
+<li>[脂批·庚辰本] 第 21 回："……凤姐之精明，全在于小。"</li>
+</ul>
+<h3>现代研究</h3>
+<ul>
+<li><strong>王蒙</strong>：王熙凤是"封建社会晚期难得的具有管理才能的女性"；《王蒙活说红楼梦》。</li>
+<li><strong>欧丽娟</strong>：王熙凤的悲剧源于"才太高、德太薄"；《大观红楼》卷三页 562。</li>
+<li><strong>俞平伯</strong>：王熙凤是"末世英雄"；俞平伯《红楼梦研究》。</li>
+<li><strong>刘心武</strong>：王熙凤结局"哭向金陵事更哀"暗示被贾琏休弃后惨死；《刘心武揭秘红楼梦》。</li>
+</ul>
+<hr>
+<h2>[脂批·推测] 八十回后结局</h2>
+<ul>
+<li>[脂批] "一从二令三人木"——综合红学界主流解读：
+<ol>
+<li>早期"从"贾琏</li>
+<li>中期"令"（发号施令）贾琏</li>
+<li>后期"休"（被休）回家</li>
+</ol>
+</li>
+<li>[脂批] "哭向金陵事更哀"——凤姐被休后回金陵探父（王子腾死），比死更悲哀</li>
+<li>[脂批] "老来富贵也真侥幸"（曲）——脂批暗示凤姐有短暂回光返照，最终仍惨死</li>
+</ul>
+<blockquote>
+<p><strong>注</strong>：程乙本后四十回中，凤姐"力诎失人心"，"历幻返金陵"而死；与脂批"哭向金陵"一致，但程乙本未明确写"被休"。</p>
+</blockquote>
+<hr>
+<h2>引用与版本 / Citations</h2>
+<ul>
+<li>《红楼梦》第 3、6、11、12、13、14、15、25、30、39、42、43、44、54、55、68、69、71、72、74、101、110、113、114 回 · 程乙本 · 俞平伯校注 · 人民文学出版社 · 1982</li>
+<li>Hawkes, <em>The Story of the Stone</em>, Vol. 1: <em>The Golden Days</em>, Penguin, 1973, p. 122（第三回）、p. 202–203（判词）</li>
+<li>Hawkes, <em>The Story of the Stone</em>, Vol. 2: <em>The Crab-Flower Club</em>, Penguin, 1977</li>
+<li>Hawkes &#x26; Minford, <em>The Story of the Stone</em>, Vol. 5, Penguin, 1986（110 回后）</li>
+</ul>
+<p>最后更新：2026-07-20</p>
+b:T1581,<h1>王熙凤 · 故事时间线</h1>
+<hr>
+<h2>出身与嫁入贾府</h2>
+<h3>[待校] 王家侄女</h3>
+<ul>
+<li>王子腾之侄女（部分版本作侄女）</li>
+<li>王夫人之侄女</li>
+<li>嫁贾琏（贾赦之子）为妻</li>
+<li>陪嫁丫鬟：平儿（后为通房）</li>
+<li><strong>管家才干</strong>：嫁入贾府后即主管荣国府内务</li>
+</ul>
+<hr>
+<h2>第一次正面出场（第 3 回）</h2>
+<h3>第 3 回 · "未见其人先闻其声"</h3>
+<ul>
+<li>黛玉初入贾府，凤姐从后院来</li>
+<li>"我来迟了，不曾迎接远客！"</li>
+<li>凤姐又携黛玉之手，问长问短，又吩咐丫鬟设座</li>
+<li><strong>意义</strong>：管家奶奶初登场</li>
+</ul>
+<hr>
+<h2>协理宁国府（第 11–16 回）</h2>
+<h3>第 11 回 · 庆寿辰</h3>
+<ul>
+<li>贾敬寿辰，宁府设宴</li>
+<li>凤姐探病秦可卿（"任凭他是神仙"）</li>
+</ul>
+<h3>第 12 回 · 毒设相思局</h3>
+<ul>
+<li>贾瑞调戏凤姐，被设计捉弄</li>
+<li>贾瑞照"风月宝鉴"亡</li>
+<li><strong>意义</strong>：凤姐狠辣本性初显</li>
+</ul>
+<h3>第 13 回 · 协理宁国府</h3>
+<ul>
+<li>秦可卿死</li>
+<li>贾珍恣意奢华</li>
+<li>凤姐受请协理宁国府</li>
+<li>凤姐"杀伐决断"，"令行禁止"</li>
+</ul>
+<h3>第 15 回 · 弄权铁槛寺</h3>
+<ul>
+<li>凤姐受贿三千两，逼死张金哥与未婚夫</li>
+<li><strong>意义</strong>：弄权敛财，毒辣本性升级</li>
+</ul>
+<hr>
+<h2>大观园时代（第 25–53 回）</h2>
+<h3>第 25 回 · 魇魔法</h3>
+<ul>
+<li>马道婆与赵姨娘合谋魇魔法</li>
+<li>凤姐与宝玉同病</li>
+<li>一僧一道相救</li>
+</ul>
+<h3>第 39–42 回 · 刘姥姥二进荣国府</h3>
+<ul>
+<li>凤姐作弄刘姥姥，"老刘老刘"一段</li>
+<li>凤姐送刘姥姥八两银及衣物</li>
+<li><strong>意义</strong>：刘姥姥救巧姐之伏笔</li>
+</ul>
+<h3>第 43–44 回 · 泼醋</h3>
+<ul>
+<li>凤姐生日（九月）</li>
+<li>贾琏与鲍二家的私通</li>
+<li>凤姐泼醋，痛打平儿</li>
+<li>平儿委屈</li>
+<li><strong>意义</strong>：婚姻裂痕初显</li>
+</ul>
+<h3>第 54 回 · 戏彩斑衣</h3>
+<ul>
+<li>元宵夜宴，凤姐效"斑衣戏彩"逗贾母</li>
+</ul>
+<h3>第 55–56 回 · 探春代管</h3>
+<ul>
+<li>王夫人病中，探春、李纨、宝钗代管</li>
+<li>探春"兴利除弊"</li>
+<li>宝钗"小惠全大体"</li>
+<li>凤姐"退居二线"</li>
+<li><strong>意义</strong>：管家权转移，凤姐失势的预兆</li>
+</ul>
+<hr>
+<h2>杀伐尤二姐（第 64–69 回）</h2>
+<h3>第 64–65 回 · 贾琏偷娶尤二姐</h3>
+<ul>
+<li>贾琏于花枝巷偷娶尤二姐</li>
+<li>凤姐闻知，先按兵不动</li>
+</ul>
+<h3>第 68 回 · 大闹宁国府</h3>
+<ul>
+<li>凤姐花言巧语赚尤二姐入大观园</li>
+<li>凤姐大闹宁国府，骂贾蓉、贾珍</li>
+<li>张华告状，凤姐反坐</li>
+</ul>
+<h3>第 69 回 · 弄小巧用借剑杀人</h3>
+<ul>
+<li>凤姐借秋桐之手逼死尤二姐</li>
+<li>尤二姐吞生金自逝</li>
+<li><strong>意义</strong>：凤姐"杀伐"的极端表现</li>
+</ul>
+<hr>
+<h2>抄检大观园（第 74 回）</h2>
+<h3>第 74 回 · 惑奸谗</h3>
+<ul>
+<li>王善保家的进谗</li>
+<li>抄检大观园</li>
+<li>凤姐带队</li>
+<li>惜春、尤氏冲突</li>
+<li><strong>意义</strong>：大观园"末日"开端</li>
+</ul>
+<hr>
+<h2>衰落（第 76–114 回）</h2>
+<h3>第 71 回 · 邢夫人当众羞凤姐</h3>
+<ul>
+<li>贾母八旬大庆</li>
+<li>邢夫人当众给凤姐没脸（"嫌隙人"）</li>
+<li><strong>意义</strong>：凤姐势力渐衰</li>
+</ul>
+<h3>第 72 回 · 血山崩初现</h3>
+<ul>
+<li>凤姐血山崩初现（"下红之症"）</li>
+</ul>
+<h3>第 101 回 · 月夜幽魂</h3>
+<ul>
+<li>大观园月夜，凤姐见秦可卿幽魂</li>
+<li>散花寺求签</li>
+</ul>
+<h3>第 105 回 · 锦衣军查抄宁国府</h3>
+<ul>
+<li>锦衣军查抄宁国府</li>
+<li>贾赦、贾政、贾珍被查</li>
+<li><strong>意义</strong>：贾府全面衰落</li>
+</ul>
+<h3>第 110 回 · 贾母死，凤姐失势</h3>
+<ul>
+<li>贾母寿终</li>
+<li>凤姐"力诎失人心"</li>
+</ul>
+<h3>第 113 回 · 凤姐托孤刘姥姥</h3>
+<ul>
+<li>凤姐临终托刘姥姥（巧姐后事）</li>
+<li>"我的儿，你要记着，你娘我的死活都不要紧，你若争气便罢……"</li>
+</ul>
+<h3>第 114 回 · 历幻返金陵</h3>
+<ul>
+<li>凤姐死</li>
+<li>巧姐被刘姥姥带回家</li>
+<li><strong>意义</strong>："哭向金陵事更哀"——最终凄凉</li>
+</ul>
+<hr>
+<h2>[脂批·推测] 八十回后结局</h2>
+<blockquote>
+<p>仅脂批线索：</p>
+</blockquote>
+<ul>
+<li>[脂批] "一从二令三人木"——综合红学界主流解读：
+<ol>
+<li>早期"从"贾琏</li>
+<li>中期"令"（发号施令）贾琏</li>
+<li>后期"休"（被休）回家</li>
+</ol>
+</li>
+<li>[脂批] "哭向金陵事更哀"——凤姐被休后回金陵探父（王子腾死），比死更悲哀</li>
+</ul>
+<blockquote>
+<p><strong>注</strong>：程乙本后四十回中，凤姐"力诎失人心"而亡；与脂批"哭向金陵"一致，但程乙本未明确写"被休"。</p>
+</blockquote>
+<hr>
+<h2>时间线存疑（[待校]）</h2>
+<ul>
+<li>[待校] 凤姐嫁入贾府的年龄：程乙本未明示</li>
+<li>[待校] 凤姐与贾琏的"借种"传言（与贾蓉）——[待校] 仅 87 版电视剧有此暗示，原著无明文</li>
+<li>[待校] 凤姐"放高利贷"的具体规模</li>
+</ul>
+<hr>
+<p>[回目数据来源：planning/04-timeline.md]
+最后更新：2026-07-20</p>
+c:T119d,<h1>王熙凤 · 原文与译文</h1>
+<hr>
+<h2>判词与曲</h2>
+<h3>1. 判词（第五回 · 程乙本）</h3>
+<blockquote>
+<p>后面便是一片冰山，上面有一只雌凤。其判曰：</p>
+<p><strong>凡鸟偏从末世来，</strong>
+<strong>都知爱慕此生才。</strong>
+<strong>一从二令三人木，</strong>
+<strong>哭向金陵事更哀。</strong></p>
+</blockquote>
+<blockquote>
+<p>[现代白话译注] "凡鸟"二字合为"鳳"（凤的繁体）。"凡鸟偏从末世来"——王熙凤偏偏来到贾府衰败的末世。"都知爱慕此生才"——人人都爱她的才干。"一从二令三人木"——红学界争议较大：一生从顺从 → 发号施令 → "人木"（休）。"哭向金陵事更哀"——[脂批] 凤姐被休后哭回金陵，比死更悲哀。</p>
+</blockquote>
+<blockquote>
+<p>[英译] Hawkes, Vol. 1, p. 202</p>
+</blockquote>
+<h3>2. 《聪明累》（红楼梦曲 · 第 5 回）</h3>
+<blockquote>
+<p>机关算尽太聪明，反误了卿卿性命。生前心已碎，死后性空灵。家富人宁，终有个家亡人散各奔腾。枉费了，意悬悬半世心；好一似，荡悠悠三更梦。忽喇喇似大厦倾，昏惨惨似灯将尽。呀！一场欢喜忽悲辛。叹人世，终难定！</p>
+</blockquote>
+<blockquote>
+<p>[英译] Hawkes, Vol. 1, p. 203</p>
+</blockquote>
+<hr>
+<h2>关键语段</h2>
+<h3>3. 第一次出场 · 第三回 · 程乙本</h3>
+<blockquote>
+<p>一语未了，只听后院中有人笑声，说："我来迟了，不曾迎接远客！"黛玉纳罕道："这些人个个皆敛声屏气，恭肃严整如此，这来者系谁，这样放诞无礼？"心下想时，只见一群媳妇丫鬟围拥着一个人从后房门进来。……</p>
+</blockquote>
+<blockquote>
+<p>[回目出处] 第 3 回 · 程乙本 · 页 51
+[英译] Hawkes, Vol. 1, p. 122</p>
+</blockquote>
+<h3>4. 外貌 · 第三回 · 程乙本</h3>
+<blockquote>
+<p>这个人打扮与众姑娘不同，彩绣辉煌，恍若神妃仙子：头上戴着金丝八宝攒珠髻，绾着朝阳五凤挂珠钗；……一双丹凤三角眼，两弯柳叶吊梢眉，身量苗条，体格风骚。粉面含春威不露，丹唇未启笑先闻。</p>
+</blockquote>
+<blockquote>
+<p>[回目出处] 第 3 回 · 程乙本 · 页 51–52
+[英译] Hawkes, Vol. 1, p. 122</p>
+</blockquote>
+<h3>5. 毒设相思局 · 第十二回 · 程乙本 · 节选</h3>
+<blockquote>
+<p>凤姐……一面笑道："……你是个痴情的，连这都不知道！"……一面又设局。</p>
+</blockquote>
+<blockquote>
+<p>[回目出处] 第 12 回 · 程乙本 · 页 162
+[英译] Hawkes, Vol. 1, p. 393</p>
+</blockquote>
+<h3>6. 协理宁国府 · 第十四回 · 程乙本 · 节选</h3>
+<blockquote>
+<p>凤姐……即命彩明钉造簿册。即时传升……一面走，一面吩咐。"……"</p>
+</blockquote>
+<blockquote>
+<p>[回目出处] 第 14 回 · 程乙本 · 页 187
+[英译] Hawkes, Vol. 1, p. 446</p>
+</blockquote>
+<h3>7. 弄权铁槛寺 · 第十五回 · 程乙本 · 节选</h3>
+<blockquote>
+<p>凤姐听了这话，便发了兴头，说道："……你是素日知道我的，从来不信什么阴司地狱报应的。凭是什么事，我说要行就行。你叫他拿三千两银子来，我就替他出这口气。"</p>
+</blockquote>
+<blockquote>
+<p>[回目出处] 第 15 回 · 程乙本 · 页 196
+[英译] Hawkes, Vol. 1, p. 480</p>
+</blockquote>
+<h3>8. 大闹宁国府 · 第六十八回 · 程乙本 · 节选</h3>
+<blockquote>
+<p>凤姐……一面说，一面便扬手"啪啪"打了……一面又骂。</p>
+</blockquote>
+<blockquote>
+<p>[回目出处] 第 68 回 · 程乙本 · 页 942
+[英译] Hawkes, Vol. 3, p. 491</p>
+</blockquote>
+<h3>9. 弄小巧用借剑杀人 · 第六十九回 · 程乙本 · 节选</h3>
+<blockquote>
+<p>凤姐……一面使人去调唆张华……一面使人来家告状……</p>
+</blockquote>
+<blockquote>
+<p>[回目出处] 第 69 回 · 程乙本 · 页 952
+[英译] Hawkes, Vol. 4, p. 528</p>
+</blockquote>
+<h3>10. 托孤刘姥姥 · 第一百一十三回 · 程乙本 · 节选</h3>
+<blockquote>
+<p>凤姐……一面拉了刘姥姥的手，笑道："姥姥，你疼我些罢！你如今在这里住着，我的儿，你要记着，你娘我的死活都不要紧，你若争气便罢，若不争气，倘或叫人说出去，叫人笑话……"</p>
+</blockquote>
+<blockquote>
+<p>[回目出处] 第 113 回 · 程乙本 · 页 1506
+[英译] Minford, Vol. 5, p. 412</p>
+</blockquote>
+<hr>
+<p>最后更新：2026-07-20</p>
+2:["$","article",null,{"className":"space-y-8","children":[["$","header",null,{"className":"border-b border-ink/20 pb-6","children":["$","div",null,{"className":"flex flex-col md:flex-row gap-6 items-start","children":[null,["$","div",null,{"className":"flex-1","children":[["$","p",null,{"className":"text-sm opacity-60 mb-1","children":[["$","$L9",null,{"href":"/en/character","className":"hover:underline","children":"Characters"}]," · ","贾府"]}],["$","h1",null,{"className":"font-kai text-4xl font-bold mb-2","children":"Phoenix"}],["$","p",null,{"className":"text-lg opacity-70 mb-3","children":"凤姐 · 凤辣子 · 凤哥儿 · 凡鸟 · 凤丫头"}],["$","p",null,{"className":"prose-judgement text-sm italic","children":"> [英译] Hawkes, Vol. 1, p. 202"}]]}]]}]}],["$","section",null,{"className":"prose-quote prose max-w-none","dangerouslySetInnerHTML":{"__html":"$a"}}],["$","section",null,{"children":[["$","h2",null,{"className":"text-2xl font-bold mb-4 font-kai border-b border-ink/20 pb-2","children":"Story Timeline"}],["$","div",null,{"className":"prose max-w-none","dangerouslySetInnerHTML":{"__html":"$b"}}]]}],["$","section",null,{"children":[["$","h2",null,{"className":"text-2xl font-bold mb-4 font-kai border-b border-ink/20 pb-2","children":"Original & Translation"}],["$","div",null,{"className":"prose max-w-none","dangerouslySetInnerHTML":{"__html":"$c"}}]]}],false,["$","footer",null,{"className":"text-center text-sm opacity-60 pt-8 border-t border-ink/20","children":["$","$L9",null,{"href":"/en/character","className":"hover:underline","children":["← ","Back to Characters"]}]}]]}]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Phoenix"}],["$","meta","3",{"name":"description","content":"> **[别称]** 凤姐 · 凤辣子 · 凤哥儿 · 凡鸟 · 凤丫头  "}]]
+1:null

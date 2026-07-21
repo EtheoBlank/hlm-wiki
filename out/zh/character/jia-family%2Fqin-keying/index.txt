@@ -1,0 +1,312 @@
+3:I[9275,[],""]
+6:I[1343,[],""]
+7:I[3589,["231","static/chunks/231-f35b59634dca96cb.js","185","static/chunks/app/layout-e8cd247004b66694.js"],"TopNav"]
+4:["lang","zh","d"]
+5:["id","jia-family%2Fqin-keying","d"]
+0:["Qk9ZsEOnzOjMslMZ-SxD5",[[["",{"children":[["lang","zh","d"],{"children":["character",{"children":[["id","jia-family%2Fqin-keying","d"],{"children":["__PAGE__?{\"lang\":\"zh\",\"id\":\"jia-family/qin-keying\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["lang","zh","d"],{"children":["character",{"children":[["id","jia-family%2Fqin-keying","d"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children","character","children","$5","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children","character","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},[["$","html",null,{"lang":"zh","children":["$","body",null,{"className":"min-h-screen","children":[["$","$L7",null,{"lang":"zh"}],["$","main",null,{"className":"max-w-5xl mx-auto px-4 py-8","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}]}],["$","footer",null,{"className":"mt-16 py-8 border-t border-ink/20 text-center text-sm opacity-70","children":["红楼梦人物维基 · 基于程乙本（俞平伯校注人文社本）+ 脂批异文 · Hawkes 精修英译 ·"," ",["$","a",null,{"href":"https://github.com/anomalyco/hlm-wiki","target":"_blank","rel":"noreferrer","children":"GitHub"}]]}]]}]}],null],null],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/607f3a07d5b3a78f.css","precedence":"next","crossOrigin":"$undefined"}]],[null,"$L8"]]]]]
+9:I[231,["231","static/chunks/231-f35b59634dca96cb.js","389","static/chunks/app/%5Blang%5D/character/%5Bid%5D/page-bda91a835043d815.js"],""]
+a:T1760,<h1>秦可卿 / Qin Keqing</h1>
+<blockquote>
+<p><strong>[别称]</strong> 兼美 · 蓉大奶奶<br>
+<strong>[身份]</strong> 金陵十二钗正册 · 贾蓉之妻 · 宁府当家奶奶<br>
+<strong>[结局]</strong> "情天情海幻情身" · [脂批] 自缢于天香楼 / 程乙本 病死<br>
+<strong>[判词]</strong> "情天情海幻情身，情既相逢必主淫"<br>
+<strong>[曲]</strong> 《好事终》</p>
+</blockquote>
+<hr>
+<h2>档案 / Profile</h2>
+<table>
+<thead>
+<tr>
+<th>项目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>中文名</td>
+<td>秦可卿</td>
+</tr>
+<tr>
+<td>拼音</td>
+<td>Qín Kěqīng</td>
+</tr>
+<tr>
+<td>别号</td>
+<td>兼美、蓉大奶奶、蓉儿媳妇</td>
+</tr>
+<tr>
+<td>性别</td>
+<td>女</td>
+</tr>
+<tr>
+<td>籍贯</td>
+<td>养生堂抱养（[待校] 程乙本第 8 回："他父亲<strong>秦业</strong>，现任营缮郎"；秦业即秦钟之父、可卿之父。"养生堂"抱养与"营缮郎"出身之矛盾是红楼梦版本学重大议题）</td>
+</tr>
+<tr>
+<td>父</td>
+<td>秦业（第 8 回："他父亲秦业，现任营缮郎"）</td>
+</tr>
+<tr>
+<td>公公</td>
+<td>贾珍</td>
+</tr>
+<tr>
+<td>丈夫</td>
+<td>贾蓉</td>
+</tr>
+<tr>
+<td>弟</td>
+<td>秦钟</td>
+</tr>
+<tr>
+<td>住所</td>
+<td>宁国府</td>
+</tr>
+<tr>
+<td>丫鬟</td>
+<td>瑞珠、宝珠</td>
+</tr>
+<tr>
+<td>结局</td>
+<td>第 13 回 · 程乙本作"病死"；[脂批] 作"自缢"</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>判词 / Key Verse</h2>
+<h3>金陵十二钗正册 · 第十页 · 可卿</h3>
+<blockquote>
+<p>画着高楼大厦，有一美人悬梁自缢。其判云：</p>
+<p><strong>情天情海幻情身，</strong>
+<strong>情既相逢必主淫。</strong>
+<strong>漫言不肖皆荣出，</strong>
+<strong>造衅开端实在宁。</strong></p>
+</blockquote>
+<blockquote>
+<p>[现代白话译注] 情天情海幻化的身子，情一旦相逢必然主淫。莫说不肖子孙都出自荣国府，造衅开端其实在宁国府。</p>
+</blockquote>
+<blockquote>
+<p>[英译] Hawkes, Vol. 1, p. 200</p>
+</blockquote>
+<h3>《好事终》</h3>
+<blockquote>
+<p>画梁春尽落香尘。擅风情，秉月貌，便是败家的根本。箕裘颓堕皆从敬，家事消亡首罪宁。宿孽总因情！</p>
+</blockquote>
+<blockquote>
+<p>[现代白话译注] 画梁上的春光终于化作落下的香尘。擅于风情、秉有月貌，便是败家的根本。祖业颓堕皆因贾敬，家事消亡头一罪在宁府。前世的宿孽总因一个"情"字！</p>
+</blockquote>
+<blockquote>
+<p>[英译] Hawkes, Vol. 1, p. 200</p>
+</blockquote>
+<hr>
+<h2>第一次出场 / First Appearance</h2>
+<h3>第 5 回 · 程乙本 · 梦中"成亲"</h3>
+<blockquote>
+<p>警幻仙姑……命小丫鬟取出"兼美"——也就是可卿——引宝玉入室。</p>
+</blockquote>
+<h3>第 7 回 · 宁府会秦钟</h3>
+<blockquote>
+<p>秦可卿……出场</p>
+</blockquote>
+<h3>第 8 回 · 秦业（秦钟之父）</h3>
+<blockquote>
+<p>秦钟……他父亲秦业，现任营缮郎。</p>
+</blockquote>
+<hr>
+<h2>性格与形象 / Personality</h2>
+<h3>性格特征</h3>
+<ul>
+<li><strong>温柔婉约</strong>：兼美之名——兼具宝钗、黛玉之美</li>
+<li><strong>心思细腻</strong>：深得贾母欢心</li>
+<li><strong>神秘</strong>：与公公贾珍"爬灰"之暧昧（[脂批]）</li>
+<li><strong>预知者</strong>：死前托梦凤姐"月满则亏"等语</li>
+</ul>
+<h3>关键语录</h3>
+<ul>
+<li>"我这如今大好了，……"（第 11 回，病中语）</li>
+<li>"婶婶，你是个脂粉队里的英雄……"（第 13 回，托梦凤姐）</li>
+<li>"任凭他是神仙，治了病治不了命……"（第 11 回，凤姐语，代可卿之意）</li>
+<li>"月满则亏，水满则溢"（第 13 回，托梦）</li>
+</ul>
+<hr>
+<h2>关键事件 / Key Events</h2>
+<table>
+<thead>
+<tr>
+<th>回目</th>
+<th>事件</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>第 5 回</td>
+<td>梦中与宝玉"成亲"（警幻）</td>
+</tr>
+<tr>
+<td>第 7 回</td>
+<td>随凤姐入宁府</td>
+</tr>
+<tr>
+<td>第 8 回</td>
+<td>详写秦可卿病中</td>
+</tr>
+<tr>
+<td>第 10 回</td>
+<td>张太医论病</td>
+</tr>
+<tr>
+<td>第 11 回</td>
+<td>庆寿辰，凤姐探病</td>
+</tr>
+<tr>
+<td>第 13 回</td>
+<td>秦可卿死</td>
+</tr>
+<tr>
+<td>第 14–15 回</td>
+<td>凤姐协理宁国府</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>红学评点 / Scholarly Notes</h2>
+<h3>脂批摘要</h3>
+<ul>
+<li>[脂批·甲戌本] 第 13 回："……'秦可卿淫丧天香楼'……作者用史笔也……"（明确写"淫丧"，后删改）</li>
+<li>[脂批·庚辰本] 第 13 回："……'画梁春尽落香尘'，是可卿结局。"</li>
+<li>[脂批] 删改：原稿"可卿死"，后改"病死"；脂批中保留"淫丧天香楼"原意</li>
+</ul>
+<h3>现代研究</h3>
+<ul>
+<li><strong>刘心武</strong>：秦可卿出身"公主"（废太子之女）——《刘心武揭秘红楼梦》</li>
+<li><strong>欧丽娟</strong>：秦可卿之死是"宁府乱伦的代价"；《大观红楼》卷二页 67。</li>
+<li><strong>白先勇</strong>：秦可卿的"兼美"是"对贾母/王夫人/凤姐期待的整合"；《白先勇细说红楼梦》。</li>
+<li><strong>俞平伯</strong>：秦可卿的病死是"后四十回删改"；俞平伯《红楼梦研究》。</li>
+</ul>
+<h3>[脂批] 删改研究</h3>
+<blockquote>
+<p>程甲本（1791）、程乙本（1792）后四十回对秦可卿之死"删淫存洁"——原稿"淫丧天香楼"被改作"病死"。此为红楼梦版本学重大事件。</p>
+</blockquote>
+<hr>
+<h2>引用与版本 / Citations</h2>
+<ul>
+<li>《红楼梦》第 5、7、8、10、11、13、14、15 回 · 程乙本 · 俞平伯校注 · 人民文学出版社 · 1982</li>
+<li>Hawkes, <em>The Story of the Stone</em>, Vol. 1, Penguin, 1973, p. 200（判词）</li>
+<li>刘心武《刘心武揭秘红楼梦》（2005、2011）—— 索隐派代表观点</li>
+<li>俞平伯《红楼梦研究》—— 程乙本删改研究</li>
+</ul>
+<p>最后更新：2026-07-20</p>
+b:T7bc,<h1>秦可卿 · 故事时间线</h1>
+<hr>
+<h2>出身与嫁入宁府</h2>
+<h3>[待校] 出身"养生堂"</h3>
+<ul>
+<li>程乙本第 8 回言"他父亲<strong>秦业</strong>，现任营缮郎"；但其出身"养生堂"之"寒门"与"营缮郎"矛盾；[脂批] 暗示其出身"公主"或"寒门"</li>
+</ul>
+<h3>第 7 回 · 入宁府</h3>
+<ul>
+<li>秦可卿与凤姐同回宁府</li>
+</ul>
+<h3>第 8 回 · 详写病中</h3>
+<ul>
+<li>秦可卿病重</li>
+<li>婆婆尤氏、丈夫贾蓉悉心照料</li>
+</ul>
+<hr>
+<h2>病与托梦</h2>
+<h3>第 10 回 · 张太医论病</h3>
+<ul>
+<li>张太医（张友士）论病——病由"忧虑伤脾"</li>
+</ul>
+<h3>第 11 回 · 庆寿辰</h3>
+<ul>
+<li>贾敬寿辰，宁府设宴</li>
+<li>凤姐探病秦可卿</li>
+<li>秦可卿："任凭他是神仙……"</li>
+</ul>
+<h3>第 13 回 · 死前托梦</h3>
+<ul>
+<li>秦可卿死前托梦凤姐</li>
+<li>警示"月满则亏，水满则溢"</li>
+<li>嘱凤姐"将祖茔附近多置田庄房舍地亩"</li>
+</ul>
+<hr>
+<h2>死亡</h2>
+<h3>第 13 回 · 秦可卿死</h3>
+<ul>
+<li>程乙本作"病死"（"首尾不了侄妇丧礼"）</li>
+<li>[脂批] 原稿为"自缢于天香楼"（"秦可卿淫丧天香楼"）</li>
+<li>贾珍恣意奢华，"恣意奢华"，"买棺"</li>
+<li>瑞珠触柱而亡</li>
+<li>宝珠甘为义女</li>
+</ul>
+<h3>第 14–15 回 · 丧礼</h3>
+<ul>
+<li>凤姐协理宁国府</li>
+<li>戴权引见贾珍</li>
+<li>贾珍为贾蓉捐官（龙禁尉）</li>
+</ul>
+<hr>
+<h2>[脂批·推测] 八十回后结局</h2>
+<ul>
+<li>[脂批] "画梁春尽落香尘"——悬梁自缢</li>
+<li>[脂批] 与公公贾珍"爬灰"之嫌</li>
+<li>[脂批] 删改：原稿"淫丧天香楼"被改作"病死"——程甲本、程乙本</li>
+</ul>
+<blockquote>
+<p><strong>重要</strong>：程甲本、程乙本对秦可卿之死的"删淫存洁"是红楼梦版本学的重大事件。</p>
+</blockquote>
+<hr>
+<p>[回目数据来源：planning/04-timeline.md]
+最后更新：2026-07-20</p>
+c:T790,<h1>秦可卿 · 原文与译文</h1>
+<hr>
+<h2>判词与曲</h2>
+<h3>1. 判词（第五回 · 程乙本）</h3>
+<blockquote>
+<p>画着高楼大厦，有一美人悬梁自缢。其判云：</p>
+<p><strong>情天情海幻情身，</strong>
+<strong>情既相逢必主淫。</strong>
+<strong>漫言不肖皆荣出，</strong>
+<strong>造衅开端实在宁。</strong></p>
+</blockquote>
+<p><strong>[现代白话译注]</strong> 情天情海幻化的身子，情一旦相逢必然主淫。莫说不肖子孙都出自荣国府，造衅开端其实在宁国府。</p>
+<p><strong>[Hawkes 译文]</strong></p>
+<blockquote>
+<p>The spirit of the Sea and the spirit of the Sky,
+Their union was a body of passion and of doubt.
+The depraved come from the Rong mansion, it's said,
+But the source of all disasters is the Ning.
+<em>Hawkes, Vol. 1, p. 200</em></p>
+</blockquote>
+<h3>2. 《好事终》</h3>
+<blockquote>
+<p>画梁春尽落香尘。擅风情，秉月貌，便是败家的根本。箕裘颓堕皆从敬，家事消亡首罪宁。宿孽总因情！</p>
+</blockquote>
+<blockquote>
+<p>[英译] Hawkes, Vol. 1, p. 200</p>
+</blockquote>
+<hr>
+<h2>关键语段</h2>
+<h3>3. 死前托梦（第十三回 · 程乙本 · 节选）</h3>
+<blockquote>
+<p>凤姐……正自疑虑，忽闻……"婶婶，你是个脂粉队里的英雄，连那些束带顶冠的男子也不能过你！……"</p>
+</blockquote>
+<blockquote>
+<p>[回目出处] 第 13 回 · 程乙本 · 页 174
+[英译] Hawkes, Vol. 1, p. 411</p>
+</blockquote>
+<h3>4. 死（第十三回 · 程乙本 · 节选）</h3>
+<blockquote>
+<p>凤姐……自觉身体软弱……至次日，便觉身体异常……至晚间，一日好一日的支持不住。……只听得"哗啦"一声，瑞珠……触柱而亡。……</p>
+</blockquote>
+<blockquote>
+<p>[回目出处] 第 13 回 · 程乙本 · 页 175
+[英译] Hawkes, Vol. 1, p. 415</p>
+</blockquote>
+<hr>
+<p>最后更新：2026-07-20</p>
+2:["$","article",null,{"className":"space-y-8","children":[["$","header",null,{"className":"border-b border-ink/20 pb-6","children":["$","div",null,{"className":"flex flex-col md:flex-row gap-6 items-start","children":[null,["$","div",null,{"className":"flex-1","children":[["$","p",null,{"className":"text-sm opacity-60 mb-1","children":[["$","$L9",null,{"href":"/zh/character","className":"hover:underline","children":"人物"}]," · ","贾府"]}],["$","h1",null,{"className":"font-kai text-4xl font-bold mb-2","children":"秦可卿"}],["$","p",null,{"className":"text-lg opacity-70 mb-3","children":"兼美 · 蓉大奶奶"}],["$","p",null,{"className":"prose-judgement text-sm italic","children":"> **[别称]** 兼美 · 蓉大奶奶  "}]]}]]}]}],["$","section",null,{"className":"prose-quote prose max-w-none","dangerouslySetInnerHTML":{"__html":"$a"}}],["$","section",null,{"children":[["$","h2",null,{"className":"text-2xl font-bold mb-4 font-kai border-b border-ink/20 pb-2","children":"故事时间线"}],["$","div",null,{"className":"prose max-w-none","dangerouslySetInnerHTML":{"__html":"$b"}}]]}],["$","section",null,{"children":[["$","h2",null,{"className":"text-2xl font-bold mb-4 font-kai border-b border-ink/20 pb-2","children":"原文与译文"}],["$","div",null,{"className":"prose max-w-none","dangerouslySetInnerHTML":{"__html":"$c"}}]]}],false,["$","footer",null,{"className":"text-center text-sm opacity-60 pt-8 border-t border-ink/20","children":["$","$L9",null,{"href":"/zh/character","className":"hover:underline","children":["← ","返回人物列表"]}]}]]}]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"秦可卿"}],["$","meta","3",{"name":"description","content":"> **[别称]** 兼美 · 蓉大奶奶  "}]]
+1:null

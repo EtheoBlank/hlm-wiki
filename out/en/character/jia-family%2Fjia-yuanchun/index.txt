@@ -1,0 +1,310 @@
+3:I[9275,[],""]
+6:I[1343,[],""]
+7:I[3589,["231","static/chunks/231-f35b59634dca96cb.js","185","static/chunks/app/layout-e8cd247004b66694.js"],"TopNav"]
+4:["lang","en","d"]
+5:["id","jia-family%2Fjia-yuanchun","d"]
+0:["Qk9ZsEOnzOjMslMZ-SxD5",[[["",{"children":[["lang","en","d"],{"children":["character",{"children":[["id","jia-family%2Fjia-yuanchun","d"],{"children":["__PAGE__?{\"lang\":\"en\",\"id\":\"jia-family/jia-yuanchun\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["lang","en","d"],{"children":["character",{"children":[["id","jia-family%2Fjia-yuanchun","d"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children","character","children","$5","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children","character","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},[["$","html",null,{"lang":"zh","children":["$","body",null,{"className":"min-h-screen","children":[["$","$L7",null,{"lang":"zh"}],["$","main",null,{"className":"max-w-5xl mx-auto px-4 py-8","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}]}],["$","footer",null,{"className":"mt-16 py-8 border-t border-ink/20 text-center text-sm opacity-70","children":["红楼梦人物维基 · 基于程乙本（俞平伯校注人文社本）+ 脂批异文 · Hawkes 精修英译 ·"," ",["$","a",null,{"href":"https://github.com/anomalyco/hlm-wiki","target":"_blank","rel":"noreferrer","children":"GitHub"}]]}]]}]}],null],null],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/607f3a07d5b3a78f.css","precedence":"next","crossOrigin":"$undefined"}]],[null,"$L8"]]]]]
+9:I[231,["231","static/chunks/231-f35b59634dca96cb.js","389","static/chunks/app/%5Blang%5D/character/%5Bid%5D/page-bda91a835043d815.js"],""]
+a:T1880,<h1>贾元春 / Jia Yuanchun</h1>
+<blockquote>
+<p><strong>[别称]</strong> 元妃 · 贤德妃<br>
+<strong>[身份]</strong> 金陵十二钗正册 · 皇妃 · 贾政长女<br>
+<strong>[结局]</strong> "虎兕相逢大梦归"（判词） · 薨逝于宫中<br>
+<strong>[判词]</strong> "二十年来辨是非，榴花开处照宫闱"<br>
+<strong>[曲]</strong> 《恨无常》</p>
+</blockquote>
+<hr>
+<h2>档案 / Profile</h2>
+<table>
+<thead>
+<tr>
+<th>项目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>中文名</td>
+<td>贾元春</td>
+</tr>
+<tr>
+<td>拼音</td>
+<td>Jiǎ Yuánchūn</td>
+</tr>
+<tr>
+<td>别号</td>
+<td>元妃、贤德妃、大姐（家中）</td>
+</tr>
+<tr>
+<td>性别</td>
+<td>女</td>
+</tr>
+<tr>
+<td>籍贯</td>
+<td>金陵</td>
+</tr>
+<tr>
+<td>出生</td>
+<td>[待校] 程乙本未明载；红学界推测比宝玉长 10 岁以上</td>
+</tr>
+<tr>
+<td>父</td>
+<td>贾政</td>
+</tr>
+<tr>
+<td>母</td>
+<td>王夫人</td>
+</tr>
+<tr>
+<td>弟</td>
+<td>贾宝玉、贾环（异母）</td>
+</tr>
+<tr>
+<td>妹</td>
+<td>贾探春（异母）</td>
+</tr>
+<tr>
+<td>兄</td>
+<td>贾珠（亡）</td>
+</tr>
+<tr>
+<td>师父</td>
+<td>（家学童年启蒙）</td>
+</tr>
+<tr>
+<td>住所</td>
+<td>宫中 · 凤藻宫</td>
+</tr>
+<tr>
+<td>丫鬟</td>
+<td>抱琴</td>
+</tr>
+<tr>
+<td>封号</td>
+<td>贤德妃（第 16 回晋封）</td>
+</tr>
+<tr>
+<td>结局</td>
+<td>第 95 回："因讹成实元妃薨逝"</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>判词 / Key Verse</h2>
+<h3>金陵十二钗正册 · 第二页 · 元春</h3>
+<blockquote>
+<p>画着一张弓，弓上挂着香橼。也有一首歌词云：</p>
+<p><strong>二十年来辨是非，</strong>
+<strong>榴花开处照宫闱。</strong>
+<strong>三春争及初春景，</strong>
+<strong>虎兕相逢大梦归。</strong></p>
+</blockquote>
+<blockquote>
+<p>[现代白话译注] "二十年来辨是非"——元春入宫二十载，辨尽宫中是非；"榴花开处照宫闱"——石榴多子，喻元春得宠；"三春争及初春景"——迎、探、惜三春皆不及元春；"虎兕相逢大梦归"——虎与犀牛相撞，喻宫廷权斗之凶险，元春于此噩梦中逝去（判词正文，非脂批）。</p>
+</blockquote>
+<blockquote>
+<p>[英译] Hawkes, Vol. 1, p. 200</p>
+</blockquote>
+<h3>《恨无常》</h3>
+<blockquote>
+<p>喜荣华正好，恨无常又到。眼睁睁，把万事全抛。荡悠悠，把芳魂消耗。望家乡，路远山高。故向爹娘梦里相寻告：儿命已入黄泉，天伦呵，须要退步抽身早！</p>
+</blockquote>
+<blockquote>
+<p>[现代白话译注] 正当荣华鼎盛，忽然无常到来。眼睁睁把万事全抛，飘飘荡荡把芳魂消耗。遥望家乡，路远山高。只得在梦中向爹娘哭诉：儿已命归黄泉，父亲母亲啊，须要早做退步抽身的打算！</p>
+</blockquote>
+<blockquote>
+<p>[英译] Hawkes, Vol. 1, p. 200</p>
+</blockquote>
+<hr>
+<h2>第一次出场 / First Appearance</h2>
+<h3>[待校] 元春首次出场</h3>
+<blockquote>
+<p>程乙本中元春无"出场"概念——她从入宫起就以"皇妃"身份存在；首次正面描写是第 17–18 回省亲时。</p>
+</blockquote>
+<h3>第 17–18 回 · 归省庆元宵</h3>
+<blockquote>
+<p>贾政、王夫人等跪请赐见。元春……步下金槛，一手挽贾母，一手挽王夫人，三人满心里皆有许多话，只是俱说不出，只管呜咽对泣。</p>
+</blockquote>
+<blockquote>
+<p>[回目出处] 第 17–18 回 · 程乙本 · 页 235
+[英译] Hawkes, Vol. 1, p. 555</p>
+</blockquote>
+<h3>关键事件</h3>
+<ul>
+<li><strong>第 16 回</strong>："贾元春才选凤藻宫"——晋封贤德妃</li>
+<li><strong>第 17–18 回</strong>：归省（省亲），建大观园</li>
+<li><strong>第 22 回</strong>：元宵节礼</li>
+<li><strong>第 28 回</strong>：赐红麝香珠</li>
+<li><strong>第 53 回</strong>：元宵夜宴后归宫</li>
+<li><strong>第 83 回</strong>：染恙</li>
+<li><strong>第 95 回</strong>："因讹成实元妃薨逝"</li>
+</ul>
+<hr>
+<h2>性格与形象 / Personality</h2>
+<blockquote>
+<p><strong>判词</strong> "榴花开处照宫闱"——石榴多子；元春无子，但晋封即为"开枝散叶"的政治资本
+<strong>曲</strong> "喜荣华正好"——在极盛时戛然而止
+<strong>性格</strong>：守礼、宽厚（对宝玉、贾母特别照顾）；在宫中压抑、孤独</p>
+</blockquote>
+<h3>关键语录</h3>
+<ul>
+<li>"当日既送我到那不得见人的去处……"（第 18 回省亲时含泪对贾母、王夫人）</li>
+<li>"千万好生扶养宝玉！……"（第 95 回临终托付）</li>
+</ul>
+<hr>
+<h2>红学评点 / Scholarly Notes</h2>
+<h3>脂批摘要</h3>
+<ul>
+<li>[脂批·庚辰本] 第 18 回："……元春之尊贵，全赖天恩。"</li>
+<li>[脂批·甲戌本] 第 16 回："……元春晋封，预示贾府盛极而衰。"</li>
+</ul>
+<h3>现代研究</h3>
+<ul>
+<li><strong>欧丽娟</strong>：元春是"家国之间的悲剧桥梁"；《大观红楼》卷四页 102。</li>
+<li><strong>王蒙</strong>：元春省亲是"盛世的挽歌"；《王蒙活说红楼梦》。</li>
+<li><strong>白先勇</strong>：元春之死"标志贾府衰落的开始"；《白先勇细说红楼梦》。</li>
+</ul>
+<hr>
+<h2>[脂批·推测] 八十回后结局</h2>
+<ul>
+<li>[脂批·推测] "虎兕相逢"——判词原文暗示宫廷权斗中丧生</li>
+<li>[脂批·推测] "榴花开处"——石榴虽多子，但元春实际无子</li>
+<li>[脂批·推测] "三春争及初春景"——迎、探、惜三春皆不及元春；元春是贾府"烈火烹油、鲜花着锦"之最盛象征</li>
+</ul>
+<blockquote>
+<p><strong>注</strong>：程乙本第 95 回作"因讹成实元妃薨逝"——病逝，与判词"虎兕相逢"暗喻略有差异；本项目两栏并列。</p>
+</blockquote>
+<hr>
+<h2>引用与版本 / Citations</h2>
+<ul>
+<li>《红楼梦》第 16、17–18、22、28、53、83、95 回 · 程乙本 · 俞平伯校注 · 人民文学出版社 · 1982</li>
+<li>Hawkes, <em>The Story of the Stone</em>, Vol. 1: <em>The Golden Days</em>, Penguin, 1973, p. 200（判词）、p. 526–588（17–18 回省亲）</li>
+<li>Hawkes &#x26; Minford, <em>The Story of the Stone</em>, Vol. 4–5, Penguin, 1982/1986</li>
+</ul>
+<p>最后更新：2026-07-20</p>
+b:T737,<h1>贾元春 · 故事时间线</h1>
+<hr>
+<h2>入宫与晋封</h2>
+<h3>[待校] 入宫</h3>
+<ul>
+<li>出身贾府，幼年即入宫（[待校] 入宫年龄，程乙本未明载）</li>
+<li>由女史逐步晋封</li>
+</ul>
+<h3>第 16 回 · 晋封贤德妃</h3>
+<ul>
+<li>贾琏与林黛玉南下归来</li>
+<li>"贾元春才选凤藻宫，秦鲸卿夭逝黄泉路"</li>
+<li>晋封"贤德妃"</li>
+<li>贾府大兴土木，建大观园以备省亲</li>
+</ul>
+<hr>
+<h2>归省庆元宵</h2>
+<h3>第 17–18 回 · 大观园省亲</h3>
+<ul>
+<li>大观园落成</li>
+<li>元宵节归省</li>
+<li>元春命宝玉与众姊妹入住大观园</li>
+<li>省亲时赐宝玉《杏帘在望》诗为魁</li>
+</ul>
+<hr>
+<h2>赏赐与维护</h2>
+<table>
+<thead>
+<tr>
+<th>回目</th>
+<th>事件</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>第 22 回</td>
+<td>元宵节礼；宝钗、宝玉礼同</td>
+</tr>
+<tr>
+<td>第 28 回</td>
+<td>赐红麝香珠</td>
+</tr>
+<tr>
+<td>第 53 回</td>
+<td>元宵夜宴后归宫</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>染恙与薨逝</h2>
+<h3>第 83 回 · 省宫闱贾元妃染恙</h3>
+<ul>
+<li>元春染恙</li>
+</ul>
+<h3>第 95 回 · 因讹成实元妃薨逝</h3>
+<ul>
+<li>"因讹成实"——外面传元春病重，讹言变实</li>
+<li>元春薨逝</li>
+<li><strong>意义</strong>：贾府最大靠山崩塌</li>
+</ul>
+<hr>
+<h2>[脂批·推测] 八十回后结局</h2>
+<ul>
+<li>[脂批] "虎兕相逢大梦归"——在宫廷权力斗争中丧生</li>
+<li>[脂批] 与程乙本"病逝"略有差异</li>
+</ul>
+<hr>
+<h2>时间线存疑（[待校]）</h2>
+<ul>
+<li>[待校] 元春入宫年龄</li>
+<li>[待校] 元春是否真"无子"——判词"榴花开处"暗示"多子"，但实际无子</li>
+<li>[待校] 元春薨逝时的年龄</li>
+</ul>
+<hr>
+<p>[回目数据来源：planning/04-timeline.md]
+最后更新：2026-07-20</p>
+c:T7f2,<h1>贾元春 · 原文与译文</h1>
+<hr>
+<h2>判词与曲</h2>
+<h3>1. 判词（第五回 · 程乙本）</h3>
+<blockquote>
+<p>画着一张弓，弓上挂着香橼。也有四句言词，写道是：</p>
+<p><strong>二十年来辨是非，</strong>
+<strong>榴花开处照宫闱。</strong>
+<strong>三春争及初春景，</strong>
+<strong>虎兕相逢大梦归。</strong></p>
+</blockquote>
+<p><strong>[现代白话译注]</strong> 二十年来在宫中辨尽是非；榴花开处（多子）照耀宫闱；三春（迎、探、惜）争及初春（元春）之景；虎兕相逢（[脂批] 暗示宫廷斗争）大梦归。</p>
+<p><strong>[Hawkes 译文]</strong></p>
+<blockquote>
+<p>Twenty years of judging right and wrong,
+A pomegranate tree blossoms in the palace court.
+Three Springs can never match the First Spring's glory,
+Where tiger meets rhinoceros, the great dream must end.
+<em>Hawkes, Vol. 1, p. 200</em></p>
+</blockquote>
+<h3>2. 《恨无常》</h3>
+<blockquote>
+<p>喜荣华正好，恨无常又到。眼睁睁，把万事全抛。荡悠悠，把芳魂消耗。望家乡，路远山高。故向爹娘梦里相寻告：儿命已入黄泉，天伦呵，须要退步抽身早！</p>
+</blockquote>
+<blockquote>
+<p>[英译] Hawkes, Vol. 1, p. 200</p>
+</blockquote>
+<hr>
+<h2>关键语段</h2>
+<h3>3. 省亲（第十七至十八回 · 程乙本 · 节选）</h3>
+<blockquote>
+<p>贾政、王夫人等跪请赐见。元春……步下金槛，一手挽贾母，一手挽王夫人，三人满心里皆有许多话，只是俱说不出，只管呜咽对泣。</p>
+</blockquote>
+<blockquote>
+<p>[回目出处] 第 17–18 回 · 程乙本 · 页 235
+[英译] Hawkes, Vol. 1, p. 555</p>
+</blockquote>
+<h3>4. 临终（第九十五回 · 程乙本 · 节选）</h3>
+<blockquote>
+<p>元妃薨逝，是年甲寅年十二月十九日，享年三十一岁。</p>
+</blockquote>
+<blockquote>
+<p>[回目出处] 第 95 回 · 程乙本 · 页 1289
+[英译] Minford, Vol. 5, p. 437</p>
+</blockquote>
+<hr>
+<p>最后更新：2026-07-20</p>
+2:["$","article",null,{"className":"space-y-8","children":[["$","header",null,{"className":"border-b border-ink/20 pb-6","children":["$","div",null,{"className":"flex flex-col md:flex-row gap-6 items-start","children":[null,["$","div",null,{"className":"flex-1","children":[["$","p",null,{"className":"text-sm opacity-60 mb-1","children":[["$","$L9",null,{"href":"/en/character","className":"hover:underline","children":"Characters"}]," · ","贾府"]}],["$","h1",null,{"className":"font-kai text-4xl font-bold mb-2","children":"jia-yuanchun"}],["$","p",null,{"className":"text-lg opacity-70 mb-3","children":"元妃 · 贤德妃"}],["$","p",null,{"className":"prose-judgement text-sm italic","children":"﻿# 贾元春 / Jia Yuanchun"}]]}]]}]}],["$","section",null,{"className":"prose-quote prose max-w-none","dangerouslySetInnerHTML":{"__html":"$a"}}],["$","section",null,{"children":[["$","h2",null,{"className":"text-2xl font-bold mb-4 font-kai border-b border-ink/20 pb-2","children":"Story Timeline"}],["$","div",null,{"className":"prose max-w-none","dangerouslySetInnerHTML":{"__html":"$b"}}]]}],["$","section",null,{"children":[["$","h2",null,{"className":"text-2xl font-bold mb-4 font-kai border-b border-ink/20 pb-2","children":"Original & Translation"}],["$","div",null,{"className":"prose max-w-none","dangerouslySetInnerHTML":{"__html":"$c"}}]]}],false,["$","footer",null,{"className":"text-center text-sm opacity-60 pt-8 border-t border-ink/20","children":["$","$L9",null,{"href":"/en/character","className":"hover:underline","children":["← ","Back to Characters"]}]}]]}]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"jia-yuanchun"}],["$","meta","3",{"name":"description","content":"﻿# 贾元春 / Jia Yuanchun"}]]
+1:null
