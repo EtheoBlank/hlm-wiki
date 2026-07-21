@@ -1,15 +1,21 @@
 # Dependencies
 node_modules/
+**/node_modules/
 .pnpm-store/
 
 # Build outputs
 .next/
+**/.next/
 out/
+**/out/
 dist/
+**/dist/
 build/
+**/build/
 
 # Vercel
 .vercel/
+**/.vercel/
 
 # IDE / Editor
 .vscode/
@@ -37,3 +43,9 @@ yarn-debug.log*
 
 # Generated
 *.tsbuildinfo
+
+# Cache directories
+.cache/
+**/.cache/
+.turbo/
+**/.turbo/

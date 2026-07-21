@@ -23,6 +23,7 @@ export interface CharacterFull {
   story: string | null
   relationships: string | null
   quotes: string | null
+  hasFullContent: boolean
 }
 
 const FAMILY_MAP: Record<string, string> = {
@@ -130,8 +131,9 @@ export function getAllCharacters(): CharacterProfile[] {
 }
 
 export function getCharacter(id: string): CharacterFull | null {
-  const safeId = id.replace(/[/\\]/g, '/')
-  const parts = safeId.split('/')
+  // Decode URL-encoded path (e.g. "jia-family%2Fjia-baoyu" → "jia-family/jia-baoyu")
+  const decoded = decodeURIComponent(id)
+  const parts = decoded.split('/')
   if (parts.length < 2) return null
   const family = parts[0]
   const slug = parts.slice(1).join('/')
@@ -154,7 +156,7 @@ export function getCharacter(id: string): CharacterFull | null {
 
   return {
     meta: {
-      id: safeId,
+      id: decoded,
       family,
       slug,
       title: title.zh,
@@ -169,6 +171,7 @@ export function getCharacter(id: string): CharacterFull | null {
     story,
     relationships,
     quotes,
+    hasFullContent: !!story,
   }
 }
 
@@ -196,8 +199,8 @@ export function getFamilyLabel(family: string, lang: 'zh' | 'en'): string {
 }
 
 export function getPortraitUrl(id: string): string | null {
-  const safeId = id.replace(/[/\\]/g, '/')
-  const parts = safeId.split('/')
+  const decoded = decodeURIComponent(id)
+  const parts = decoded.split('/')
   if (parts.length < 2) return null
   const family = parts[0]
   const slug = parts.slice(1).join('/')

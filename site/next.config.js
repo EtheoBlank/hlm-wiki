@@ -6,10 +6,6 @@ const nextConfig = {
     unoptimized: true,
   },
   trailingSlash: true,
-  i18n: {
-    locales: ['zh', 'en'],
-    defaultLocale: 'zh',
-  },
 }
 
 module.exports = nextConfig
