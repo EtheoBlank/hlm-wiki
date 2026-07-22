@@ -52,7 +52,8 @@ function getFamily(family: string): { zh: string; en: string } {
   return { zh: FAMILY_MAP[family] || family, en: FAMILY_EN[family] || family }
 }
 
-function extractTitle(content: string, fallback: string): { zh: string; en: string } {
+function extractTitle(rawContent: string, fallback: string): { zh: string; en: string } {
+  const content = rawContent.replace(/^\uFEFF/, '')
   const zhMatch = content.match(/^#\s+([^/\n]+?)\s*\/\s*([^\n]+)/m)
   if (zhMatch) {
     const parts = zhMatch[2].trim().split(/\s+\/\s+/)
@@ -205,11 +206,11 @@ export function getPortraitUrl(id: string): string | null {
   const family = parts[0]
   const slug = parts.slice(1).join('/')
 
-  const portraitDir = path.join(process.cwd(), 'assets', 'portraits', family, slug)
+  const portraitDir = path.join(process.cwd(), 'assets', 'portraits', slug)
   if (!fs.existsSync(portraitDir)) return null
 
   const files = fs.readdirSync(portraitDir).filter((f) => f.endsWith('.jpg'))
   if (files.length === 0) return null
 
-  return `../../assets/portraits/${family}/${slug}/${files[0]}`
+  return `/assets/portraits/${slug}/${files[0]}`
 }

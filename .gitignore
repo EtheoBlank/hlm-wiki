@@ -10,6 +10,8 @@ dist/
 build/
 **/build/
 .vercel/
+out/
+**/out/
 
 # Vercel
 **/.vercel/
@@ -41,7 +43,8 @@ yarn-debug.log*
 # Generated
 *.tsbuildinfo
 
-# Cache
+public/assets/
+
 .cache/
 **/.cache/
 .turbo/
