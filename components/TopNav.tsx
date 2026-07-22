@@ -1,5 +1,6 @@
 'use client'
 import Link from 'next/link'
+import { usePathname } from 'next/navigation'
 import { useState } from 'react'
 
 interface Props {
@@ -7,6 +8,7 @@ interface Props {
 }
 
 export function TopNav({ lang }: Props) {
+  const pathname = usePathname() || `/${lang}`
   const [open, setOpen] = useState(false)
   const isZh = lang === 'zh'
 
@@ -20,6 +22,7 @@ export function TopNav({ lang }: Props) {
   ]
 
   const otherLang = isZh ? 'en' : 'zh'
+  const switchedPath = pathname.replace(/^\/(zh|en)/, `/${otherLang}`) || `/${otherLang}`
 
   return (
     <nav className="border-b border-ink/20 bg-rice-paper sticky top-0 z-10">
@@ -47,7 +50,7 @@ export function TopNav({ lang }: Props) {
             </Link>
           ))}
           <Link
-            href={navItems[0].href.replace(`/${lang}`, `/${otherLang}`)}
+            href={switchedPath}
             className="block md:inline-block py-1 md:py-0 ml-0 md:ml-4 opacity-70 hover:opacity-100"
             title={isZh ? 'Switch to English' : '切换到中文'}
           >
