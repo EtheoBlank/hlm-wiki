@@ -122,6 +122,10 @@ h1::after {
 .relation-item:hover::before { width: 100%; opacity: 0.3; }
 .relation-item:hover { padding-left: 8px; }
 
+/* E.2 回到学习总站 */
+.back-hub { font-size: 12px; opacity: 0.6; transition: opacity 0.2s; text-decoration: none; color: var(--color-vermilion); }
+.back-hub:hover { opacity: 1; }
+
 .prose-judgement {
   background-color: #fdf6e3;
   padding: 1rem 1.5rem;
