@@ -69,7 +69,8 @@ function SearchBoxInner({ lang, placeholder, fallbackCharacters = [] }: Props) {
 
   useEffect(() => {
     if (initialQ) handleSearch(initialQ)
-  }, [])
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [initialQ])
 
   async function handleSearch(query: string) {
     if (!query.trim()) {
