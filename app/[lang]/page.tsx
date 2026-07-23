@@ -1,5 +1,6 @@
 import { TopNav } from '@/components/TopNav'
 import Link from 'next/link'
+import type { Metadata } from 'next'
 
 interface Props {
   params: { lang: string }
@@ -8,6 +9,24 @@ interface Props {
 // Required for static export of dynamic segment
 export function generateStaticParams() {
   return [{ lang: 'zh' }, { lang: 'en' }]
+}
+
+// D.3 Open Graph metadata
+export function generateMetadata({ params }: Props): Metadata {
+  const lang = params.lang
+  const titleZh = '红楼梦人物维基 · Dream of the Red Chamber Wiki'
+  const titleEn = 'Hong Lou Meng Wiki · Dream of the Red Chamber'
+  return {
+    title: isZh(lang) ? titleZh : titleEn,
+    openGraph: {
+      title: isZh(lang) ? titleZh : titleEn,
+      description: isZh(lang)
+        ? '全书人物中英对照维基，忠于程乙本与脂批异文'
+        : 'Full character index (zh/en) based on the Cheng–Yu edition + Zhiyanzhai commentary',
+      url: `https://hlm-wiki.vercel.app/${lang}/`,
+      type: 'website',
+    }
+  }
 }
 
 const isZh = (lang: string) => lang === 'zh'

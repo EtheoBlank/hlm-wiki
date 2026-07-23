@@ -89,7 +89,38 @@ h1::after {
   [class*="character"]:where(a, article, li) { transition: none; }
   .character-card:hover,
   [class*="character"]:where(a, article, li):hover { transform: none; }
+  .character-detail > section,
+  .relation-item::before { animation: none; transition: none; }
 }
+
+/* C.4 角色页 section 交错入场 */
+.character-detail > section {
+  opacity: 0;
+  transform: translateY(12px);
+  animation: sectionIn 0.4s ease-out forwards;
+}
+.character-detail > section:nth-child(1) { animation-delay: 0s; }
+.character-detail > section:nth-child(2) { animation-delay: 0.08s; }
+.character-detail > section:nth-child(3) { animation-delay: 0.16s; }
+.character-detail > section:nth-child(4) { animation-delay: 0.24s; }
+.character-detail > section:nth-child(5) { animation-delay: 0.32s; }
+@keyframes sectionIn { to { opacity: 1; transform: translateY(0); } }
+
+/* C.4 关系项 hover 连线暗示 */
+.relation-item {
+  position: relative;
+  transition: padding-left 0.2s ease;
+}
+.relation-item::before {
+  content: '';
+  position: absolute;
+  left: 0; top: 50%;
+  width: 0; height: 2px;
+  background: var(--color-vermilion);
+  transition: width 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+}
+.relation-item:hover::before { width: 100%; opacity: 0.3; }
+.relation-item:hover { padding-left: 8px; }
 
 .prose-judgement {
   background-color: #fdf6e3;
