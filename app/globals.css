@@ -31,11 +31,64 @@ a:hover {
 }
 
 .prose-quote {
-  background-color: var(--color-mist);
+  position: relative;
+  background: linear-gradient(135deg, #fdf8ef, #f8f2e6);
   padding: 1rem 1.5rem;
   border-left: 4px solid var(--color-vermilion);
   font-style: italic;
   margin: 1rem 0;
+  box-shadow: inset 0 0 24px rgba(169, 50, 38, 0.04);
+}
+
+.prose-quote::before {
+  content: '脂';
+  position: absolute;
+  top: 8px;
+  right: 14px;
+  font-size: 11px;
+  color: var(--color-vermilion);
+  opacity: 0.32;
+  font-family: 'Kaiti SC', 'STKaiti', cursive;
+  letter-spacing: 1px;
+}
+
+h1::after {
+  content: '';
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  background: var(--color-vermilion);
+  border-radius: 2px;
+  margin-left: 10px;
+  transform: rotate(45deg);
+  opacity: 0.7;
+  vertical-align: middle;
+  position: relative;
+  top: -4px;
+}
+
+/* 角色卡片水墨风 */
+.character-card,
+[class*="character"]:where(a, article, li) {
+  background: linear-gradient(145deg, #faf6ee, #f0ebe0);
+  border: 1px solid rgba(58, 74, 92, 0.1);
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(58, 74, 92, 0.06);
+  transition: transform 0.3s cubic-bezier(0.16, 1, 0.3, 1),
+              box-shadow 0.3s ease,
+              border-color 0.3s ease;
+}
+.character-card:hover,
+[class*="character"]:where(a, article, li):hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 24px rgba(169, 50, 38, 0.14);
+  border-color: var(--color-vermilion);
+}
+@media (prefers-reduced-motion: reduce) {
+  .character-card,
+  [class*="character"]:where(a, article, li) { transition: none; }
+  .character-card:hover,
+  [class*="character"]:where(a, article, li):hover { transform: none; }
 }
 
 .prose-judgement {
